@@ -90,6 +90,9 @@ const OVERVIEW_PADDING_BOTTOM = 42;
 const MIN_ZOOM = 1;
 const MAX_ZOOM = 9;
 const DATA_REFRESH_ENDPOINT = window.AI_TRAVEL_AGENT_REFRESH_ENDPOINT || "";
+const DATELINE_RIGHT_WRAP_COUNTRIES = new Set(["Russia"]);
+const DATELINE_RIGHT_WRAP_THRESHOLD = -160;
+const WORLD_LONGITUDE_SPAN = 360;
 
 const COUNTRY_ALIASES = {
   "United States of America": ["United States"],
@@ -987,7 +990,7 @@ function calculateFeatureBounds(features) {
 
   features.forEach((feature) => {
     walkCoordinates(feature.geometry?.coordinates, ([lon, lat]) => {
-      const [x, y] = project(lon, lat);
+      const [x, y] = projectFeatureCoordinate(feature, lon, lat);
       bounds.minX = Math.min(bounds.minX, x);
       bounds.minY = Math.min(bounds.minY, y);
       bounds.maxX = Math.max(bounds.maxX, x);
@@ -1027,28 +1030,40 @@ function featureToPath(feature) {
   }
 
   if (geometry.type === "Polygon") {
-    return polygonToPath(geometry.coordinates);
+    return polygonToPath(geometry.coordinates, feature);
   }
 
   if (geometry.type === "MultiPolygon") {
-    return geometry.coordinates.map(polygonToPath).join(" ");
+    return geometry.coordinates.map((polygon) => polygonToPath(polygon, feature)).join(" ");
   }
 
   return "";
 }
 
-function polygonToPath(polygon) {
+function polygonToPath(polygon, feature) {
   return polygon
     .map((ring) => {
       return ring
         .map(([lon, lat], index) => {
-          const [x, y] = project(lon, lat);
+          const [x, y] = projectFeatureCoordinate(feature, lon, lat);
           return `${index === 0 ? "M" : "L"}${x.toFixed(2)},${y.toFixed(2)}`;
         })
         .join(" ")
         .concat(" Z");
     })
     .join(" ");
+}
+
+function projectFeatureCoordinate(feature, lon, lat) {
+  return project(normalizeFeatureLongitude(feature, lon), lat);
+}
+
+function normalizeFeatureLongitude(feature, lon) {
+  const mapName = feature?.properties?.name || "";
+  if (DATELINE_RIGHT_WRAP_COUNTRIES.has(mapName) && lon < DATELINE_RIGHT_WRAP_THRESHOLD) {
+    return lon + WORLD_LONGITUDE_SPAN;
+  }
+  return lon;
 }
 
 function project(lon, lat) {
