@@ -1,0 +1,1175 @@
+{
+  "passport": "Switzerland",
+  "nationality": "Swiss",
+  "slug": "switzerland",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Swiss citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.. e-Visa: Visitors must arrive at Kabul International (KBL).."
+    },
+    "Albania": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "ID card valid.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Application for a tourist visa to Algeria must be accompanied either by a certificate of accommodation.. Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.. Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.."
+    },
+    "Andorra": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": ""
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Maximum 3 entries per calendar year.."
+    },
+    "Antigua and Barbuda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Argentina": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Armenia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "180 days",
+      "notes": "180 days per calendar year.."
+    },
+    "Austria": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Azerbaijan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Bahamas": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "8 months",
+      "notes": ""
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Bangladesh": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Belarus": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Must arrive and depart via Minsk International Airport.."
+    },
+    "Belgium": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Belize": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": ""
+    },
+    "Benin": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Must have an international vaccination certificate.. Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).."
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.."
+    },
+    "Bolivia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 6-month period.. ID card valid.."
+    },
+    "Botswana": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Brazil": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Brunei": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Bulgaria": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Burkina Faso": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Cambodia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-free",
+      "requirement": "eTA / Visa not required",
+      "stay": "6 months",
+      "notes": "eTA required if arriving by air."
+    },
+    "Cape Verde": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "China": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Visa-free from 14 March, 2024 to 31 December, 2026.."
+    },
+    "Colombia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days - extendable up to 180-days stay within a one-year period.."
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": ""
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": ""
+    },
+    "Costa Rica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "e-Visa holders must arrive via Port Bouet Airport.."
+    },
+    "Croatia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Can be extended up to 90 days with a fee.."
+    },
+    "Cyprus": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Czech Republic": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Denmark": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement (DK).. ID card valid..",
+      "notes": ""
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "6 months",
+      "notes": ""
+    },
+    "Dominican Republic": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Can be extended up to 120 days with fee.."
+    },
+    "Ecuador": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Egypt": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "El Salvador": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Must be arrived via Malabo International Airport, processing fee 75 USD."
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Estonia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Eswatini": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.."
+    },
+    "Fiji": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "4 months",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "France": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement (in Regions of France ).. ID card valid..",
+      "notes": ""
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive via Libreville International Airport.."
+    },
+    "Gambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Georgia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "1 year",
+      "notes": ""
+    },
+    "Germany": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Ghana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Greece": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Grenada": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guyana": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Honduras": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Hungary": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Iceland": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "India": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.. An Indian e-Tourist Visa may only be obtained twice within 1 calendar year.. Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.."
+    },
+    "Indonesia": {
+      "status": "visa-on-arrival",
+      "requirement": "e-VOA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Iran": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ireland": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Israel": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Italy": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Jamaica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge ).."
+    },
+    "Kazakhstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Kenya": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.. eTA fee is 32.50 USD.. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).. Yellow fever vaccination certificate is required if coming from endemic countries.. Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.."
+    },
+    "Kiribati": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 12 months period.."
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "South Korea": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "K-ETA exemption until the end of 2025.. The validity period of a K-ETA is 3 years from the date of approval.."
+    },
+    "Kuwait": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Kyrgyzstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "30 days within any 60-day period.."
+    },
+    "Laos": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "15 days / 30 days",
+      "notes": ""
+    },
+    "Latvia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Lebanon": {
+      "status": "visa-on-arrival",
+      "requirement": "Free Visa on arrival",
+      "stay": "1 month",
+      "notes": "Visa extendable for 2 additional months issued upon arrival. Granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.."
+    },
+    "Lesotho": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Libya": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Liechtenstein": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid.. In addition, Swiss citizens don't have to register, as they have the right to work..",
+      "notes": ""
+    },
+    "Lithuania": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Luxembourg": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.."
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Can be extended up to 90 days.."
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Maldives": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mali": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Malta": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Marshall Islands": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Available at Nouakchott–Oumtounsy International Airport.."
+    },
+    "Mauritius": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "180 days",
+      "notes": "180 days per calendar year for tourism, 120 days per calendar year for business.."
+    },
+    "Mexico": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "180 days",
+      "notes": ""
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Moldova": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.. ID card valid.."
+    },
+    "Monaco": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "ID card valid.."
+    },
+    "Mongolia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.."
+    },
+    "Montenegro": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "ID card valid for 30 days.."
+    },
+    "Morocco": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "30 days",
+      "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.."
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "28 days",
+      "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.. e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.."
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 90 days",
+      "notes": "Can be obtained online or on arrival for a fee of N$1,600 (approximately €82 / 88 USD).."
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Netherlands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement. ( European Netherlands ). ID card valid..",
+      "notes": ""
+    },
+    "New Zealand": {
+      "status": "unknown",
+      "requirement": "Electronic Travel Authority",
+      "stay": "3 months",
+      "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.. Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.."
+    },
+    "Nicaragua": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "North Macedonia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "ID card valid for 30 days.."
+    },
+    "Norway": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Oman": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "14 days / 30 days",
+      "notes": ""
+    },
+    "Pakistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "Panama": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Papua New Guinea": {
+      "status": "unknown",
+      "requirement": "Easy Visitor Permit",
+      "stay": "60 days",
+      "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).."
+    },
+    "Paraguay": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Peru": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Philippines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Poland": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Portugal": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Qatar": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Romania": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Russia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.."
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within 180 days period."
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "6 months",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "unknown",
+      "requirement": "Entry permit on arrival",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "San Marino": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "ID card valid.."
+    },
+    "São Tomé and Príncipe": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "15 days",
+      "notes": ""
+    },
+    "Saudi Arabia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Senegal": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Serbia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 6-month period.. ID card valid.."
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "ETA",
+      "stay": "",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.."
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": ""
+    },
+    "Singapore": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Slovakia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Slovenia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Solomon Islands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.. Printed visa authorization must be presented at the time of travel.."
+    },
+    "Spain": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "ETA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Suriname": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.. Multiple entry e-Visa is also available.."
+    },
+    "Sweden": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Freedom of movement.. ID card valid..",
+      "notes": ""
+    },
+    "Syria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tajikistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "30 days / 60 days",
+      "notes": "e-Visa also available. e-Visa holders can enter through all border points.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Thailand": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Timor-Leste": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": ""
+    },
+    "Tonga": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Trinidad and Tobago": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Turkey": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "ID card valid.."
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.. When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.."
+    },
+    "Tuvalu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Ukraine": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "United Arab Emirates": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period."
+    },
+    "United Kingdom": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "6 months",
+      "notes": "ID card valid until 1 October 2021.."
+    },
+    "United States": {
+      "status": "unknown",
+      "requirement": "Visa Waiver Program",
+      "stay": "90 days",
+      "notes": "ESTA is valid for 2 years from the date of issuance.. ESTA is also required when entering the country by cruise ship or land.. A Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.. Visa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.."
+    },
+    "Uruguay": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Uzbekistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Vanuatu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "ID card valid.."
+    },
+    "Venezuela": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Vietnam": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "45 days",
+      "notes": "A single entry e-Visa valid for 90 days is also available.. Temporary 45-day visa exemption regime from 15 August 2025 until 14 August 2028.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).."
+    },
+    "Zambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Also eligible for a universal visa allowing access to Zimbabwe.."
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "1 month",
+      "notes": "Also eligible for a universal visa allowing access to Zambia.."
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {}
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {}
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {}
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {}
+    }
+  }
+}

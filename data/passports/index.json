@@ -1,0 +1,1559 @@
+{
+  "app": "AI Travel Agent",
+  "source": "Wikipedia",
+  "lastUpdated": "2026-07-02",
+  "passports": [
+    {
+      "slug": "afghanistan",
+      "passport": "Afghanistan",
+      "nationality": "Afghan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Afghan_citizens",
+      "countryCount": 240
+    },
+    {
+      "slug": "albania",
+      "passport": "Albania",
+      "nationality": "Albanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "countryCount": 259
+    },
+    {
+      "slug": "algeria",
+      "passport": "Algeria",
+      "nationality": "Algerian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "andorra",
+      "passport": "Andorra",
+      "nationality": "Andorran",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Andorran_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "angola",
+      "passport": "Angola",
+      "nationality": "Angolan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "antigua-and-barbuda",
+      "passport": "Antigua and Barbuda",
+      "nationality": "Antiguan and Barbudan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "argentina",
+      "passport": "Argentina",
+      "nationality": "Argentine",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Argentine_citizens",
+      "countryCount": 267
+    },
+    {
+      "slug": "armenia",
+      "passport": "Armenia",
+      "nationality": "Armenian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "australia",
+      "passport": "Australia",
+      "nationality": "Australian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "austria",
+      "passport": "Austria",
+      "nationality": "Austrian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Austrian_citizens",
+      "countryCount": 268
+    },
+    {
+      "slug": "azerbaijan",
+      "passport": "Azerbaijan",
+      "nationality": "Azerbaijani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "bahamas",
+      "passport": "Bahamas",
+      "nationality": "Bahamian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "bahrain",
+      "passport": "Bahrain",
+      "nationality": "Bahraini",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahraini_citizens",
+      "countryCount": 259
+    },
+    {
+      "slug": "bangladesh",
+      "passport": "Bangladesh",
+      "nationality": "Bangladeshi",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "countryCount": 194
+    },
+    {
+      "slug": "barbados",
+      "passport": "Barbados",
+      "nationality": "Barbadian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "belarus",
+      "passport": "Belarus",
+      "nationality": "Belarusian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belarusian_citizens",
+      "countryCount": 245
+    },
+    {
+      "slug": "belgium",
+      "passport": "Belgium",
+      "nationality": "Belgian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "belize",
+      "passport": "Belize",
+      "nationality": "Belizean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "benin",
+      "passport": "Benin",
+      "nationality": "Beninese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "bhutan",
+      "passport": "Bhutan",
+      "nationality": "Bhutanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "bolivia",
+      "passport": "Bolivia",
+      "nationality": "Bolivian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bolivian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "bosnia-and-herzegovina",
+      "passport": "Bosnia and Herzegovina",
+      "nationality": "Bosnia and Herzegovina",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bosnia_and_Herzegovina_citizens",
+      "countryCount": 231
+    },
+    {
+      "slug": "botswana",
+      "passport": "Botswana",
+      "nationality": "Botswana",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "brazil",
+      "passport": "Brazil",
+      "nationality": "Brazilian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "brunei",
+      "passport": "Brunei",
+      "nationality": "Bruneian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "countryCount": 258
+    },
+    {
+      "slug": "bulgaria",
+      "passport": "Bulgaria",
+      "nationality": "Bulgarian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens",
+      "countryCount": 263
+    },
+    {
+      "slug": "burkina-faso",
+      "passport": "Burkina Faso",
+      "nationality": "Burkinabe",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burkinabe_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "burundi",
+      "passport": "Burundi",
+      "nationality": "Burundian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "cabo-verde",
+      "passport": "Cabo Verde",
+      "nationality": "Cape Verdean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "cambodia",
+      "passport": "Cambodia",
+      "nationality": "Cambodian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cambodian_citizens",
+      "countryCount": 260
+    },
+    {
+      "slug": "cameroon",
+      "passport": "Cameroon",
+      "nationality": "Cameroonian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "canada",
+      "passport": "Canada",
+      "nationality": "Canadian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "central-african-republic",
+      "passport": "Central African Republic",
+      "nationality": "Central African",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "chad",
+      "passport": "Chad",
+      "nationality": "Chadian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "chile",
+      "passport": "Chile",
+      "nationality": "Chilean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens",
+      "countryCount": 268
+    },
+    {
+      "slug": "china",
+      "passport": "China",
+      "nationality": "Chinese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "colombia",
+      "passport": "Colombia",
+      "nationality": "Colombian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "comoros",
+      "passport": "Comoros",
+      "nationality": "Comorian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "republic-of-the-congo",
+      "passport": "Republic of the Congo",
+      "nationality": "Republic of the Congo",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "costa-rica",
+      "passport": "Costa Rica",
+      "nationality": "Costa Rican",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Costa_Rican_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "cote-d-ivoire",
+      "passport": "Cote d'Ivoire",
+      "nationality": "Ivorian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ivorian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "croatia",
+      "passport": "Croatia",
+      "nationality": "Croatian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens",
+      "countryCount": 259
+    },
+    {
+      "slug": "cuba",
+      "passport": "Cuba",
+      "nationality": "Cuban",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cuban_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "cyprus",
+      "passport": "Cyprus",
+      "nationality": "Cypriot",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "czechia",
+      "passport": "Czechia",
+      "nationality": "Czech",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
+      "countryCount": 270
+    },
+    {
+      "slug": "democratic-republic-of-the-congo",
+      "passport": "Democratic Republic of the Congo",
+      "nationality": "Democratic Republic of the Congo",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "denmark",
+      "passport": "Denmark",
+      "nationality": "Danish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "djibouti",
+      "passport": "Djibouti",
+      "nationality": "Djiboutian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Djiboutian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "dominica",
+      "passport": "Dominica",
+      "nationality": "Dominica",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "dominican-republic",
+      "passport": "Dominican Republic",
+      "nationality": "Dominican Republic",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
+      "countryCount": 251
+    },
+    {
+      "slug": "ecuador",
+      "passport": "Ecuador",
+      "nationality": "Ecuadorian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "egypt",
+      "passport": "Egypt",
+      "nationality": "Egyptian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "el-salvador",
+      "passport": "El Salvador",
+      "nationality": "Salvadoran",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Salvadoran_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "equatorial-guinea",
+      "passport": "Equatorial Guinea",
+      "nationality": "Equatoguinean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "eritrea",
+      "passport": "Eritrea",
+      "nationality": "Eritrean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "estonia",
+      "passport": "Estonia",
+      "nationality": "Estonian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
+      "countryCount": 190
+    },
+    {
+      "slug": "eswatini",
+      "passport": "Eswatini",
+      "nationality": "Eswatini",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "ethiopia",
+      "passport": "Ethiopia",
+      "nationality": "Ethiopian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "fiji",
+      "passport": "Fiji",
+      "nationality": "Fijian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens",
+      "countryCount": 240
+    },
+    {
+      "slug": "finland",
+      "passport": "Finland",
+      "nationality": "Finnish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "france",
+      "passport": "France",
+      "nationality": "French",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens",
+      "countryCount": 260
+    },
+    {
+      "slug": "gabon",
+      "passport": "Gabon",
+      "nationality": "Gabonese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "gambia",
+      "passport": "Gambia",
+      "nationality": "Gambian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "georgia",
+      "passport": "Georgia",
+      "nationality": "Georgian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "germany",
+      "passport": "Germany",
+      "nationality": "German",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
+      "countryCount": 266
+    },
+    {
+      "slug": "ghana",
+      "passport": "Ghana",
+      "nationality": "Ghanaian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "greece",
+      "passport": "Greece",
+      "nationality": "Greek",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "grenada",
+      "passport": "Grenada",
+      "nationality": "Grenadian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Grenadian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "guatemala",
+      "passport": "Guatemala",
+      "nationality": "Guatemalan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guatemalan_citizens",
+      "countryCount": 261
+    },
+    {
+      "slug": "guinea",
+      "passport": "Guinea",
+      "nationality": "Guinean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "guinea-bissau",
+      "passport": "Guinea-Bissau",
+      "nationality": "Bissau-Guinean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "guyana",
+      "passport": "Guyana",
+      "nationality": "Guyanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "haiti",
+      "passport": "Haiti",
+      "nationality": "Haitian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "honduras",
+      "passport": "Honduras",
+      "nationality": "Honduran",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Honduran_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "hungary",
+      "passport": "Hungary",
+      "nationality": "Hungarian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens",
+      "countryCount": 262
+    },
+    {
+      "slug": "iceland",
+      "passport": "Iceland",
+      "nationality": "Icelandic",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "india",
+      "passport": "India",
+      "nationality": "Indian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "indonesia",
+      "passport": "Indonesia",
+      "nationality": "Indonesian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "countryCount": 233
+    },
+    {
+      "slug": "iran",
+      "passport": "Iran",
+      "nationality": "Iranian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "countryCount": 242
+    },
+    {
+      "slug": "iraq",
+      "passport": "Iraq",
+      "nationality": "Iraqi",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "ireland",
+      "passport": "Ireland",
+      "nationality": "Irish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
+      "countryCount": 269
+    },
+    {
+      "slug": "israel",
+      "passport": "Israel",
+      "nationality": "Israeli",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens",
+      "countryCount": 184
+    },
+    {
+      "slug": "italy",
+      "passport": "Italy",
+      "nationality": "Italian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "jamaica",
+      "passport": "Jamaica",
+      "nationality": "Jamaican",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "japan",
+      "passport": "Japan",
+      "nationality": "Japanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens",
+      "countryCount": 279
+    },
+    {
+      "slug": "jordan",
+      "passport": "Jordan",
+      "nationality": "Jordanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "countryCount": 287
+    },
+    {
+      "slug": "kazakhstan",
+      "passport": "Kazakhstan",
+      "nationality": "Kazakhstani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "kenya",
+      "passport": "Kenya",
+      "nationality": "Kenyan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "kiribati",
+      "passport": "Kiribati",
+      "nationality": "Kiribati",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "kuwait",
+      "passport": "Kuwait",
+      "nationality": "Kuwaiti",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
+      "countryCount": 232
+    },
+    {
+      "slug": "kyrgyzstan",
+      "passport": "Kyrgyzstan",
+      "nationality": "Kyrgyzstani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kyrgyzstani_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "laos",
+      "passport": "Laos",
+      "nationality": "Lao",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Laotian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "latvia",
+      "passport": "Latvia",
+      "nationality": "Latvian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "countryCount": 190
+    },
+    {
+      "slug": "lebanon",
+      "passport": "Lebanon",
+      "nationality": "Lebanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "countryCount": 275
+    },
+    {
+      "slug": "lesotho",
+      "passport": "Lesotho",
+      "nationality": "Lesotho",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "liberia",
+      "passport": "Liberia",
+      "nationality": "Liberian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "libya",
+      "passport": "Libya",
+      "nationality": "Libyan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "liechtenstein",
+      "passport": "Liechtenstein",
+      "nationality": "Liechtenstein",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "lithuania",
+      "passport": "Lithuania",
+      "nationality": "Lithuanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lithuanian_citizens",
+      "countryCount": 190
+    },
+    {
+      "slug": "luxembourg",
+      "passport": "Luxembourg",
+      "nationality": "Luxembourgish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "madagascar",
+      "passport": "Madagascar",
+      "nationality": "Malagasy",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malagasy_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "malawi",
+      "passport": "Malawi",
+      "nationality": "Malawian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "malaysia",
+      "passport": "Malaysia",
+      "nationality": "Malaysian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malaysian_citizens",
+      "countryCount": 259
+    },
+    {
+      "slug": "maldives",
+      "passport": "Maldives",
+      "nationality": "Maldivian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "mali",
+      "passport": "Mali",
+      "nationality": "Malian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "malta",
+      "passport": "Malta",
+      "nationality": "Maltese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "marshall-islands",
+      "passport": "Marshall Islands",
+      "nationality": "Marshallese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "mauritania",
+      "passport": "Mauritania",
+      "nationality": "Mauritanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "mauritius",
+      "passport": "Mauritius",
+      "nationality": "Mauritian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "mexico",
+      "passport": "Mexico",
+      "nationality": "Mexican",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "micronesia",
+      "passport": "Micronesia",
+      "nationality": "Micronesian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "moldova",
+      "passport": "Moldova",
+      "nationality": "Moldovan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moldovan_citizens",
+      "countryCount": 255
+    },
+    {
+      "slug": "monaco",
+      "passport": "Monaco",
+      "nationality": "Monegasque",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mon%C3%A9gasque_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "mongolia",
+      "passport": "Mongolia",
+      "nationality": "Mongolian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
+      "countryCount": 202
+    },
+    {
+      "slug": "montenegro",
+      "passport": "Montenegro",
+      "nationality": "Montenegrin",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Montenegrin_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "morocco",
+      "passport": "Morocco",
+      "nationality": "Moroccan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "mozambique",
+      "passport": "Mozambique",
+      "nationality": "Mozambican",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "myanmar",
+      "passport": "Myanmar",
+      "nationality": "Myanmar",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens",
+      "countryCount": 196
+    },
+    {
+      "slug": "namibia",
+      "passport": "Namibia",
+      "nationality": "Namibian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "nauru",
+      "passport": "Nauru",
+      "nationality": "Nauruan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nauruan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "nepal",
+      "passport": "Nepal",
+      "nationality": "Nepalese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "netherlands",
+      "passport": "Netherlands",
+      "nationality": "Dutch",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
+      "countryCount": 194
+    },
+    {
+      "slug": "new-zealand",
+      "passport": "New Zealand",
+      "nationality": "New Zealand",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "nicaragua",
+      "passport": "Nicaragua",
+      "nationality": "Nicaraguan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nicaraguan_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "niger",
+      "passport": "Niger",
+      "nationality": "Nigerien",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "nigeria",
+      "passport": "Nigeria",
+      "nationality": "Nigerian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "north-korea",
+      "passport": "North Korea",
+      "nationality": "North Korean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_North_Korean_citizens",
+      "countryCount": 190
+    },
+    {
+      "slug": "north-macedonia",
+      "passport": "North Macedonia",
+      "nationality": "North Macedonian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_citizens_of_North_Macedonia",
+      "countryCount": 193
+    },
+    {
+      "slug": "norway",
+      "passport": "Norway",
+      "nationality": "Norwegian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Norwegian_citizens",
+      "countryCount": 272
+    },
+    {
+      "slug": "oman",
+      "passport": "Oman",
+      "nationality": "Omani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Omani_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "pakistan",
+      "passport": "Pakistan",
+      "nationality": "Pakistani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "countryCount": 238
+    },
+    {
+      "slug": "palau",
+      "passport": "Palau",
+      "nationality": "Palauan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palauan_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "palestine",
+      "passport": "Palestine",
+      "nationality": "Palestinian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "panama",
+      "passport": "Panama",
+      "nationality": "Panamanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "papua-new-guinea",
+      "passport": "Papua New Guinea",
+      "nationality": "Papua New Guinean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Papua_New_Guinean_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "paraguay",
+      "passport": "Paraguay",
+      "nationality": "Paraguayan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Paraguayan_citizens",
+      "countryCount": 198
+    },
+    {
+      "slug": "peru",
+      "passport": "Peru",
+      "nationality": "Peruvian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "philippines",
+      "passport": "Philippines",
+      "nationality": "Philippine",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Philippine_citizens",
+      "countryCount": 260
+    },
+    {
+      "slug": "poland",
+      "passport": "Poland",
+      "nationality": "Polish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens",
+      "countryCount": 264
+    },
+    {
+      "slug": "portugal",
+      "passport": "Portugal",
+      "nationality": "Portuguese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
+      "countryCount": 270
+    },
+    {
+      "slug": "qatar",
+      "passport": "Qatar",
+      "nationality": "Qatari",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Qatari_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "romania",
+      "passport": "Romania",
+      "nationality": "Romanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
+      "countryCount": 265
+    },
+    {
+      "slug": "russia",
+      "passport": "Russia",
+      "nationality": "Russian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "rwanda",
+      "passport": "Rwanda",
+      "nationality": "Rwandan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "saint-kitts-and-nevis",
+      "passport": "Saint Kitts and Nevis",
+      "nationality": "Kittitian and Nevisian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "saint-lucia",
+      "passport": "Saint Lucia",
+      "nationality": "Saint Lucian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Lucian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "saint-vincent-and-the-grenadines",
+      "passport": "Saint Vincent and the Grenadines",
+      "nationality": "Saint Vincent and the Grenadines",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "samoa",
+      "passport": "Samoa",
+      "nationality": "Samoan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "san-marino",
+      "passport": "San Marino",
+      "nationality": "Sammarinese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
+      "countryCount": 190
+    },
+    {
+      "slug": "sao-tome-and-principe",
+      "passport": "Sao Tome and Principe",
+      "nationality": "Santomean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "saudi-arabia",
+      "passport": "Saudi Arabia",
+      "nationality": "Saudi",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saudi_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "senegal",
+      "passport": "Senegal",
+      "nationality": "Senegalese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
+      "countryCount": 201
+    },
+    {
+      "slug": "serbia",
+      "passport": "Serbia",
+      "nationality": "Serbian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
+      "countryCount": 262
+    },
+    {
+      "slug": "seychelles",
+      "passport": "Seychelles",
+      "nationality": "Seychellois",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "sierra-leone",
+      "passport": "Sierra Leone",
+      "nationality": "Sierra Leonean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "singapore",
+      "passport": "Singapore",
+      "nationality": "Singaporean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Singapore_citizens",
+      "countryCount": 260
+    },
+    {
+      "slug": "slovakia",
+      "passport": "Slovakia",
+      "nationality": "Slovak",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovak_citizens",
+      "countryCount": 268
+    },
+    {
+      "slug": "slovenia",
+      "passport": "Slovenia",
+      "nationality": "Slovenian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovenian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "solomon-islands",
+      "passport": "Solomon Islands",
+      "nationality": "Solomon Islands",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Solomon_Islands_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "somalia",
+      "passport": "Somalia",
+      "nationality": "Somali",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens",
+      "countryCount": 199
+    },
+    {
+      "slug": "south-africa",
+      "passport": "South Africa",
+      "nationality": "South African",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "south-korea",
+      "passport": "South Korea",
+      "nationality": "South Korean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
+      "countryCount": 270
+    },
+    {
+      "slug": "south-sudan",
+      "passport": "South Sudan",
+      "nationality": "South Sudanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "spain",
+      "passport": "Spain",
+      "nationality": "Spanish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
+      "countryCount": 257
+    },
+    {
+      "slug": "sri-lanka",
+      "passport": "Sri Lanka",
+      "nationality": "Sri Lankan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+      "countryCount": 200
+    },
+    {
+      "slug": "sudan",
+      "passport": "Sudan",
+      "nationality": "Sudanese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "suriname",
+      "passport": "Suriname",
+      "nationality": "Surinamese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Surinamese_citizens",
+      "countryCount": 195
+    },
+    {
+      "slug": "sweden",
+      "passport": "Sweden",
+      "nationality": "Swedish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "switzerland",
+      "passport": "Switzerland",
+      "nationality": "Swiss",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens",
+      "countryCount": 191
+    },
+    {
+      "slug": "syria",
+      "passport": "Syria",
+      "nationality": "Syrian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "tajikistan",
+      "passport": "Tajikistan",
+      "nationality": "Tajik",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "tanzania",
+      "passport": "Tanzania",
+      "nationality": "Tanzanian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "thailand",
+      "passport": "Thailand",
+      "nationality": "Thai",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "countryCount": 257
+    },
+    {
+      "slug": "timor-leste",
+      "passport": "Timor-Leste",
+      "nationality": "East Timorese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "togo",
+      "passport": "Togo",
+      "nationality": "Togolese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "tonga",
+      "passport": "Tonga",
+      "nationality": "Tongan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "trinidad-and-tobago",
+      "passport": "Trinidad and Tobago",
+      "nationality": "Trinidad and Tobago",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "tunisia",
+      "passport": "Tunisia",
+      "nationality": "Tunisian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "turkey",
+      "passport": "Turkey",
+      "nationality": "Turkish",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "turkmenistan",
+      "passport": "Turkmenistan",
+      "nationality": "Turkmen",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkmenistani_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "tuvalu",
+      "passport": "Tuvalu",
+      "nationality": "Tuvaluan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tuvaluan_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "uganda",
+      "passport": "Uganda",
+      "nationality": "Ugandan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
+      "countryCount": 194
+    },
+    {
+      "slug": "ukraine",
+      "passport": "Ukraine",
+      "nationality": "Ukrainian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "united-arab-emirates",
+      "passport": "United Arab Emirates",
+      "nationality": "Emirati",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "countryCount": 192
+    },
+    {
+      "slug": "united-kingdom",
+      "passport": "United Kingdom",
+      "nationality": "British",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
+      "countryCount": 273
+    },
+    {
+      "slug": "united-states",
+      "passport": "United States",
+      "nationality": "United States",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "countryCount": 273
+    },
+    {
+      "slug": "uruguay",
+      "passport": "Uruguay",
+      "nationality": "Uruguayan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens",
+      "countryCount": 264
+    },
+    {
+      "slug": "uzbekistan",
+      "passport": "Uzbekistan",
+      "nationality": "Uzbekistani",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uzbekistan_citizens",
+      "countryCount": 197
+    },
+    {
+      "slug": "vanuatu",
+      "passport": "Vanuatu",
+      "nationality": "Vanuatuan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "venezuela",
+      "passport": "Venezuela",
+      "nationality": "Venezuelan",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+      "countryCount": 240
+    },
+    {
+      "slug": "vietnam",
+      "passport": "Vietnam",
+      "nationality": "Vietnamese",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
+      "countryCount": 271
+    },
+    {
+      "slug": "yemen",
+      "passport": "Yemen",
+      "nationality": "Yemeni",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "zambia",
+      "passport": "Zambia",
+      "nationality": "Zambian",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
+      "countryCount": 193
+    },
+    {
+      "slug": "zimbabwe",
+      "passport": "Zimbabwe",
+      "nationality": "Zimbabwean",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
+      "countryCount": 193
+    }
+  ]
+}

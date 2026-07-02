@@ -1,0 +1,1471 @@
+{
+  "passport": "Morocco",
+  "nationality": "Moroccan",
+  "slug": "morocco",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Moroccan citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visitors must arrive at Kabul International (KBL).."
+    },
+    "Albania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders of the Schengen Area member states, the United Kingdom and the United States.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Andorra": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "Andorra can only be reached through Spain or France, so you must enter the Schengen area first and the usual Schengen visa rules apply.. Andorra is not part of Schengen, so you need a multiple-entry visa to return through Spain or France after your visit.."
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Antigua and Barbuda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.."
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.."
+    },
+    "Armenia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "120 days",
+      "notes": "Visa on arrival for a maximum stay of 120 days for valid visa holders or holding residence permit of the EU or Schengen Area member states, Australia, Canada, the United Kingdom, Ireland, Japan, South Korea, Russia and the United States or holding residence permit of the GCC member states.."
+    },
+    "Australia": {
+      "status": "evisa",
+      "requirement": "Online visa required",
+      "stay": "",
+      "notes": "May apply online. (Online Visitor e600 visa).."
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Austria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Azerbaijan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Bahamas": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Visa not required for permanent residents of the United States or Canada.. Cruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship.."
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Bangladesh": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival for a maximum stay of 30 days when traveling for tourism purposes and residing in a country without diplomatic or consular representation of Bangladesh provided that they hold a return or onward ticket and a confirmed hotel reservation.."
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Belarus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for holders of a valid visa issued by Russia.. Visa on arrival at Minsk National Airport (MSQ) for passengers with an original invitation letter from a Belarusian tourist company or medical/health organization, a service contract issued under Belarusian law, or supporting documents previously submitted to the Consular Division at Minsk National Airport (MSQ) at least 3–5 working days before departure.."
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Belgium is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Belize": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Benin": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.."
+    },
+    "Bolivia": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 30 days for valid visa holders (or holding residence permit) of the Schengen Area member states, Cyprus, the United Kingdom, Ireland, and the United States.."
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Brazil": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Brunei": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "72 hours visa-free transit if holding a confirmed onward ticket for a flight to a third country.."
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Bulgaria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Burkina Faso": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Cambodia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Eligible travelers who held a Canadian visa in the past 10 years or who hold a valid United States nonimmigrant visa can enter visa-free by air with an eTA.. A visa is still required for entry by land or sea.."
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.."
+    },
+    "China": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.. 24 hours visa-free transit through China (unless arriving in Fuzhou, Huangshan, Mudanjiang, Shenzhen or Yanji).. Hong Kong SAR, China, Macau SAR, China, and Taiwan (Province of China) count as third countries under the 24-hour transit without visa (TWOV) policies.."
+    },
+    "Colombia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": ""
+    },
+    "Republic of the Congo": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa-free from 1 January 2027.."
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": ""
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days for valid multiple-entry visa holders of Canada and the United States.."
+    },
+    "Côte d'Ivoire": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Croatia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Can be extended up to 90 days with a fee.."
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.."
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "The Czech Republic is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Denmark is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "21 days",
+      "notes": "Visa-free for a maximum stay of 6 months for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.."
+    },
+    "Dominican Republic": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Ecuador": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Egypt": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of valid residency permits in the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States can enter Egypt without a visa in advance.. Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States.. Also, Moroccan citizens holding valid residency permits from Gulf Cooperation Council (GCC) countries can obtain a visa upon arrival in Egypt.."
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, Canada and the United States.."
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Estonia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.."
+    },
+    "Fiji": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Finland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "France is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Gabon": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Gambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Georgia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland, the Gulf Cooperation Council, Australia, Canada, Israel, Japan, New Zealand, South Korea and the United States.."
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Germany is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Ghana": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Moroccan passport holders must obtain an Electronic Travel Authorization (ETA) prior to travel.."
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Greece is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Grenada": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.."
+    },
+    "Guinea": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guyana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.."
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Hungary is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Iceland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "India": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Indonesia": {
+      "status": "visa-on-arrival",
+      "requirement": "e-VOA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Iran": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.."
+    },
+    "Israel": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Italy is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Jamaica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Moroccan passport holders with residence in Australia, Brazil, Cambodia, Canada, Saudi Arabia, South Africa, Taiwan (Province of China), the United Kingdom and the United States can apply for a single entry e-Visa for tourism purposes only.."
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "",
+      "notes": "For women between the ages of 17 and 35, a visa is required.. Visa can be obtained upon arrival obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge )."
+    },
+    "Kazakhstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Kenya": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Kiribati": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 12-month period.."
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "South Korea": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "90 days",
+      "notes": "The validity period of a K-ETA is 3 years from the date of approval.."
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kyrgyzstan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart ), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka ), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel ) and Uzbekistan (at Dostuk ).."
+    },
+    "Laos": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "18 of the 33 border crossings are only open to regular visa holders.. e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad ), and in Vientiane (at Khamsavath railway station ).. Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.."
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Latvia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Lebanon": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival (conditional)",
+      "stay": "30 days",
+      "notes": "Visa on arrival at Beirut International Airport or any other port of entry only if they are holding a copy of a reservation in a 3 to 5 star hotel or private residential address with telephone number in the Republic of Lebanon, at least 2,000 USD in cash, a non-refundable return or circle trip ticket, and there are no Israeli stamps, visas, or seals on their passport.."
+    },
+    "Lesotho": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Liberia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Libya": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Liechtenstein is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Lithuania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Luxembourg is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa/ Visa on arrival",
+      "stay": "90 days",
+      "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.."
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Maldives": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mali": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "May enter with an Identity Card or an expired passport.."
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Malta is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Marshall Islands": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mauritius": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan.."
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Moldova": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of a valid residence permit or a valid visa (excluding transit visas) issued by a Member State of the European Union, a State party to the Schengen Agreement, the United Kingdom, the United States of America, or Canada are exempt from the invitation letter requirement.."
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Mongolia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.."
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "28 days",
+      "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.. e-Visa for tourism only.."
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Netherlands is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "New Zealand": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.."
+    },
+    "Nicaragua": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Niger": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states.."
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Norway is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Oman": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 14 days for valid visa holders of Australia, Canada, Japan, the United States, United Kingdom or the Schengen Area member states.."
+    },
+    "Pakistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of Australia, the United Kingdom, the United States and Canada.."
+    },
+    "Papua New Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.."
+    },
+    "Paraguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Peru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Philippines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Poland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Portugal is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Qatar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Travelers can apply for a visa on the Hayya website.."
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Romania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Russia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free for holders of a valid visa issued by Belarus.."
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "unknown",
+      "requirement": "Entry permit on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "San Marino": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "São Tomé and Príncipe": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "15 days",
+      "notes": ""
+    },
+    "Saudi Arabia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Tourists eligible for Visa on Arrival must hold valid tourist or business visas from the US, United Kingdom, or Schengen countries. The visa should have been used once with an entry stamp. Permanent residents of the US, UK, or EU, along with their first-degree relatives, can also apply after confirming their presence.."
+    },
+    "Senegal": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Serbia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period. Transfers allowed.. Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.."
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "Electronic Border System",
+      "stay": "3 months",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.."
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": ""
+    },
+    "Singapore": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Slovakia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Slovenia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Solomon Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival if having a pre-arranged visa.."
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online.. Printed visa authorization must be presented at the time of travel.."
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Spain is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]. Residents of Tetouan may enter Ceuta without a visa.. Residents of Nador may enter Melilla without a visa.."
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "ETA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Suriname": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.. Multiple entry e-Visa is also available.."
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Sweden is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Switzerland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+    },
+    "Syria": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": ""
+    },
+    "Tajikistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required (conditional) / eVisa",
+      "stay": "14 days / 60 days",
+      "notes": "Holders of passports which are 55 years old and more do not require a visa for 14 days.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "e-Visa: Single Entry for 50 USD.."
+    },
+    "Thailand": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Timor-Leste": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Togo": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Travelers must complete an online travel declaration at least 24 hours before arrival.."
+    },
+    "Tonga": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Trinidad and Tobago": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Turkey": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.."
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Ukraine": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "United Arab Emirates": {
+      "status": "evisa",
+      "requirement": "Online Visa required",
+      "stay": "",
+      "notes": "May apply using 'Smart service'.."
+    },
+    "United Kingdom and Crown dependencies": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.."
+    },
+    "United States": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "B1/B2 visas issued with validity of 10 years.."
+    },
+    "Uruguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Uzbekistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.."
+    },
+    "Vanuatu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Venezuela": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Vietnam": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "e-Visa is valid for 90 days and multiple entry.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).."
+    },
+    "Zambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "1 month",
+      "notes": ""
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {}
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders of the Schengen Area member states, the United Kingdom and the United States.."
+        },
+        "Andorra": {
+          "status": "visa-free",
+          "requirement": "Visa not required",
+          "stay": "",
+          "notes": "Andorra can only be reached through Spain or France, so you must enter the Schengen area first and the usual Schengen visa rules apply.. Andorra is not part of Schengen, so you need a multiple-entry visa to return through Spain or France after your visit.."
+        },
+        "Antigua and Barbuda": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.."
+        },
+        "Armenia": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "120 days",
+          "notes": "Visa on arrival for a maximum stay of 120 days for valid visa holders or holding residence permit of the EU or Schengen Area member states, Australia, Canada, the United Kingdom, Ireland, Japan, South Korea, Russia and the United States or holding residence permit of the GCC member states.."
+        },
+        "Austria": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Austria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Belgium": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Belgium is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Bosnia and Herzegovina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 30 days for valid visa holders (or holding residence permit) of the Schengen Area member states, Cyprus, the United Kingdom, Ireland, and the United States.."
+        },
+        "Bulgaria": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Bulgaria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Croatia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Croatia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Cyprus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.."
+        },
+        "Czech Republic": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "The Czech Republic is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Denmark": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Denmark is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Dominica": {
+          "status": "visa-free",
+          "requirement": "Visa not required",
+          "stay": "21 days",
+          "notes": "Visa-free for a maximum stay of 6 months for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.."
+        },
+        "Egypt": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Holders of valid residency permits in the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States can enter Egypt without a visa in advance.. Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States.. Also, Moroccan citizens holding valid residency permits from Gulf Cooperation Council (GCC) countries can obtain a visa upon arrival in Egypt.."
+        },
+        "El Salvador": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, Canada and the United States.."
+        },
+        "Estonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Estonia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Finland": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Finland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "France": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "France is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Georgia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland, the Gulf Cooperation Council, Australia, Canada, Israel, Japan, New Zealand, South Korea and the United States.."
+        },
+        "Germany": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Germany is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Greece": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Greece is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Guatemala": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.."
+        },
+        "Honduras": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.."
+        },
+        "Hungary": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Hungary is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Iceland": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Iceland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Italy": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Italy is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Latvia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Latvia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Liechtenstein": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Liechtenstein is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Lithuania": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Lithuania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Luxembourg": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Luxembourg is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Malta": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Malta is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Mexico": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan.."
+        },
+        "Montenegro": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.."
+        },
+        "Netherlands": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Netherlands is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states.."
+        },
+        "Norway": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Norway is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Oman": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free for a maximum stay of 14 days for valid visa holders of Australia, Canada, Japan, the United States, United Kingdom or the Schengen Area member states.."
+        },
+        "Poland": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Poland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Portugal": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Portugal is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Romania": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Romania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Saudi Arabia": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Tourists eligible for Visa on Arrival must hold valid tourist or business visas from the US, United Kingdom, or Schengen countries. The visa should have been used once with an entry stamp. Permanent residents of the US, UK, or EU, along with their first-degree relatives, can also apply after confirming their presence.."
+        },
+        "Serbia": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "90 days within any 180-day period. Transfers allowed.. Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.."
+        },
+        "Slovakia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Slovakia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Slovenia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Slovenia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Spain": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Spain is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]. Residents of Tetouan may enter Ceuta without a visa.. Residents of Nador may enter Melilla without a visa.."
+        },
+        "Sweden": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Sweden is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        },
+        "Switzerland": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Switzerland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries]."
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {}
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {
+        "Canada": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Eligible travelers who held a Canadian visa in the past 10 years or who hold a valid United States nonimmigrant visa can enter visa-free by air with an eTA.. A visa is still required for entry by land or sea.."
+        }
+      }
+    }
+  }
+}

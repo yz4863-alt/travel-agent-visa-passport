@@ -1,0 +1,1328 @@
+{
+  "passport": "India",
+  "nationality": "Indian",
+  "slug": "india",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Indian citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "e-Visa: Visitors must arrive at Kabul International (KBL).. Visitors may apply for an e-Visa in other countries, excluding some countries of residence (include India).."
+    },
+    "Albania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visa Exempt for person:. (a) having a valid residence permit in one of the Schengen countries, US or UK.. (b) having a valid multiple entry Schengen visa and the visa must have been used once in a Schengen area country.. (c) holding a 10-year UAE residence permit with a remaining validity of more than one year.. (d) holder of a valid multiple-entry US or UK visa, which must have been used once in the country of issuance.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Application for a tourist visa to Algeria must be accompanied either by a certificate of accommodation.. Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.. Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.."
+    },
+    "Andorra": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Andorra has no visa regime, but is only accessible through France and Spain: a double- or multiple-entry Schengen Visa or a Schengen Area residence permit is required.."
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Angola unilaterally exempted a visa to 98 countries including India on 29 September 2023.. 30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.. Visitors must have a return/onward ticket and a hotel reservation confirmation.. An International Certificate of Vaccination is required.."
+    },
+    "Antigua and Barbuda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa on arrival for 100 USD, for a maximum stay of 30 days for valid visa holders or residents of Canada, the Schengen Area member states, UK, and US.."
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Indian passport holders with a valid U.S. visa of type B2 / J / B1 / O / P (P1-P2-P3) / E / H-1B, or a U.S. Green Card can travel to Argentina visa-free.."
+    },
+    "Armenia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Diplomatic passport holders are not required to hold a visa for a maximum stay of 90 days. The passport needs to be valid during the whole period of stay in Armenia.. Visa On Arrival is available for the holder of a valid residence permit or valid visa issued by the EU and Schengen member states, Australia, Canada, Japan, New Zealand, the Republic of Korea, UK, US, the Russian Federation or a valid residence permit (physical card or sticker) issued by the United Arab Emirates, Saudi Arabia, Kuwait, Qatar, Bahrain or Oman.."
+    },
+    "Australia and territories": {
+      "status": "evisa",
+      "requirement": "Online Visa required",
+      "stay": "",
+      "notes": "May obtain visa through the online portal (Online Visitor e600 visa).. Transit visa: required, can apply online.. From 1 October 2024, Indian citizens have been able to apply for a Work and Holiday, subclass 462, visa to explore Australia.."
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Azerbaijan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "30 USD payable upon arrival at International Airports, and visa kiosks will provide an e-Visa. Prior eVisa required for entry via land borders.. Passports with Armenian entry stamp are subject to extra security screening subjective to immigration officer.."
+    },
+    "Bahamas": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Visa on arrival for all Indian nationals who have valid Schengen, UK, US, and/or Canadian visas.."
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": "14 days to 1-year multiple-entry visa (max. stay 90 days).. Visa on arrival for Gulf Cooperation Council residents with a validity of more than 3 months and occupation should not be labourers.. Visa on arrival for holders of valid visit visa to UAE, UK, US, KSA (excluding Hajj & Umrah visa), Schengen or US Green Card for 2 weeks Single Entry or Three months Multiple Entry.."
+    },
+    "Bangladesh": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Due to bilateral agreements, Diplomatic Passport and Official Passport holders are eligible for a visa on arrival if entering by air, road or sea but not train.. Visa fee waived for regular or ordinary passport holders who apply in India.."
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Visa requirements lifted on 17 May 2019.."
+    },
+    "Belarus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visas are waived if you hold a visa for EU countries and the Schengen area.. National visa may be substituted with a Schengen visa or a national visa of country of EU, and if arriving and departing via Minsk International Airport.."
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Belize": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Permanent residents and holders of multiple entry visa of the US or Canada may obtain a visa on arrival. Holders of a valid visa issued by a Schengen Member state are visa exempt for a maximum stay of 90 days.."
+    },
+    "Benin": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Must have an international vaccination certificate.. Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).."
+    },
+    "Bhutan": {
+      "status": "visa-free",
+      "requirement": "Freedom of Movement",
+      "stay": "Unlimited (only for border areas)",
+      "notes": "Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Bhutan by air and land.. Permits required for travel beyond the border, subject to a BTN 1200/day Sustainable Development Fee.. Apply permit through official website https://immi.gov.bt/."
+    },
+    "Bolivia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visitors must complete an online application, but still need to visit the embassy to receive the visa in their passport.."
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "6 months",
+      "notes": "National visa may be substituted with a valid multiple-entry visa issued by an EU or Schengen Area member state or the US.."
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Brazil": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Brunei": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Burkina Faso": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Cambodia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Fee of 36 USD applicable.."
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a US permanent resident card. Travelers with a US permanent resident card no longer require an Electronic Travel Authorization (ETA) as of 26 April 2022.. Transit visa: required.."
+    },
+    "Cape Verde": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "",
+      "notes": "Visa on arrival.See Extract from Order No. 244/GMAI/2026, published in the Official Gazette, 2nd Series, No. 14, of January 23, 2026.."
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Indian nationals, holders of a US visa of any kind (including Green Card) - except for type C (transit) - with at least six months validity at the time of arrival, shall be exempt from obtaining a Temporary Admission Visa (previous Tourist Visa) to enter Chile.."
+    },
+    "China": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "24-hour visa-free transit through any international airports of China, allows domestic travel through different airports.. Due to border disputes, Chinese embassy and consulate generals only issue stapled visas for Arunachal Pradesh, Jammu and Kashmir and Ladakh citizenships, and prohibit officiers of Arunachal Pradesh to apply visas, however Indian government doesn't recognize stapled visas as valid travel documents for departure, which caused conflicts regarding athletes.."
+    },
+    "Colombia": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid C or D visa issued by a Schengen Area member state or a valid visa (with 180 days left) issued by the US (except for C1 transit visas).."
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": ""
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if presenting a V.I.P invitation letter.."
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": "Visa on arrival if a letter ( visa volant ) issued by the Ministry of Interior and Security is presented.."
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by the US or with a multiple-entry visa issued by Canada or a member state of the European Union.."
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "e-Visa holders must arrive via Port Bouet Airport.. e-Visa must be collected at Félix Houphouët-Boigny Airport in Abidjan.."
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a double- or multiple-entry C visa issued by a Schengen Area member state.."
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Transit Visa: Required."
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "6 months",
+      "notes": ""
+    },
+    "Dominican Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by Canada, US or any EU member state.."
+    },
+    "Timor-Leste": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ecuador": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": ""
+    },
+    "Egypt": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Passengers with a residence permit issued by a GCC Member State can obtain a visa on arrival for a maximum stay of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date.. If travelling as a part of an organized tourist group that consists of at least 10 persons and holding both onward and return flight tickets, booked accommodation and a signed Letter of Guarantee (LG) from an Egyptian travel agency, a visa on arrival in Egypt can be obtained. Air transit passengers with a confirmed onward ticket for a flight to a third country within 48 hours do not need visas. Leaving the airport is permitted for passengers with transit time between 6 and 48 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport; however, this exemption does not apply when transiting through Alexandria (HBE).. EgyptAir passengers can obtain free 96 hour transit visa at EgyptAir transit visa office at cairo airport.."
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Since October 2023, El Salvador imposes a 1000 USD transit visa fee for Indian nationals.."
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.."
+    },
+    "Fiji": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "4 months",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://um.fi/visa-to-visit-finland#Visa%20types."
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Effective 10 Apr 2026, travellers enroute to a third country (outside EU), remaining in the international zone of French airports do not require a transit visa.."
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive via Libreville International Airport.."
+    },
+    "Gambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Georgia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Reinstated from May 2023.. National visa may be substituted with a valid visa or residence permit issued by US, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Ireland, Schengen, and GCC countries, whose holders may be granted visa-free entry for 90 days in any 180 days.."
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "A Schengen category A visa (airport transit visa) is not required for stays of up to 24 hours within the international area.."
+    },
+    "Ghana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Grenada": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by Canada, the US, or a Schengen Area member state.."
+    },
+    "Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guyana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival if holding a letter of invitation from sponsor or host.."
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by Canada, the US or a Schengen Area member state.."
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders traveling through the international transit area of an airport during a stopover or a change of flights. https://island.is/en/do-you-need-a-visa/airport-transit-visa."
+    },
+    "Indonesia": {
+      "status": "visa-on-arrival",
+      "requirement": "e-VOA / Visa on Arrival",
+      "stay": "30 days",
+      "notes": "30 days for tourism purposes, IDR 500000 fee.."
+    },
+    "Iran": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "As of 18 November 2025, visa free-access is revoked and Indian citizens must have visa prior to arrival.."
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a UK C visa holders if they have first entered the United Kingdom and have been granted a stay of 180 days in the United Kingdom. They are visa exempt for a maximum stay of 90 days in Ireland or until the end of the period of stay granted in the United Kingdom, whichever is shorter. Entry permitted only if first point of entry to the Common Travel Area is in the UK. May transit without a visa.."
+    },
+    "Israel": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "The Ministry of Tourism of Israel has launched a digital e-visa system for Indian passport holders who are resident in India, effective 1 January 2025.."
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders traveling through the international transit area of an airport during a stopover or a change of flights. https://www.esteri.it/en/servizi-consolari-e-visti/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto_transito_aeroportuale/."
+    },
+    "Jamaica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Residents in India, except those exempted from a short-term visa, will need to submit their documents through VFS.. Residents in Australia, Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan (Province of China), UK and US can also apply for a single entry e-Visa for Tourism purposes only and travel to Japan by air.."
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Kazakhstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Kenya": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.. eTA fee is 32.50 USD.. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).. Yellow fever vaccination certificate is required if coming from endemic countries.. Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.."
+    },
+    "Kiribati": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Maximum period of stay may not exceed 90 days in any given 12-month period.."
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "South Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Tourist / Transit visa for 30 days may be granted to permanent residents or valid visa holders of US, Australia, Canada, New Zealand or Schengen countries when they are traveling from or traveling to any of these countries and satisfy the conditions mentioned here https://overseas.mofa.go.kr/in-en/brd/m_20446/view.do?seq=748786&page=1.."
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "UK, US, SCHENGEN Visa or Residence Permit Holders can apply for evisa including tourism purposes at https://kuwaitvisa.moi.gov.kw/. Residents of Gulf Cooperation Council in certain professions can apply e-Visa for a fee of 3 KWD.."
+    },
+    "Kyrgyzstan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "[CAUTION - they send an email after the e-visa application requiring a letter of invitation from a tour company which costs at least USD 50] Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart ), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka ), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel ) and Uzbekistan (at Dostuk ).. Citizens of India arriving through the checkpoint at Manas International Airport can stay visa-free for up to 7 days if they have a voucher (which can be purchased upon arrival at Manas International Airport) with a value of at least 500 USD and a return air ticket to their country of citizenship or to a third country with the right to re-enter visa-free after 21 days from the date of departure; or with long-term visas (for a period of more than 3 years) of the United States of America, the Kingdom of Great Britain and Northern Ireland, the Schengen zone, where they can stay visa-free for 7 days with the right to re-enter visa-free after 21 days from the date of departure..."
+    },
+    "Laos": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "18 of the 33 border crossings are only open to regular visa holders.. e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad ), and in Vientiane (at Khamsavath railway station ).. Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.."
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lebanon": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "In addition to a visa, an approval should be obtained from the immigration department of the General Directorate of General Security ( Diréction Générale de la Sûreté Générale ).."
+    },
+    "Lesotho": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Libya": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.."
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Until 31 December 2026, visa-free for Indians for 30 days for tourist purposes only.. Submission of the Malaysia Digital Arrival Card (MDAC) within 3 days is mandatory. The online MDAC form is available- https://imigresen-online.imi.gov.my/mdac/main?registerMain."
+    },
+    "Maldives": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mali": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Marshall Islands": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Mauritius": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK, or Schengen Area member state to enter Mexico for tourism, transit, or business purposes.. Transit Visa: required.."
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Moldova": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by the United Kingdom, Schengen Area or European Union member state for visits up to 90 days.. Exempt for Indians holding a valid residence permit or valid visas (excluding transit visas) of US, Canada.. Indian citizens can apply for a visa online without needing an invitation letter.. e-Visa is issued for a maximum of 90 days in the previous 180-day period plus forthcoming 90-day period (effectively, maximum 90 days in any 270-day period).."
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Mongolia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "30 days",
+      "notes": "National visa may be substituted with a valid visa or residence permit issued by a Schengen Area member state, UK, Ireland, the US, Japan, Canada, New Zealand, or Australia.. Holder of Asia-Pacific Economic Cooperation Business Travel card (APEC).."
+    },
+    "Morocco": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Visa on arrival if holding a printed confirmation from the Immigration Authority (SENAMI) Headquarters in Maputo, indicating that a visa has been approved before departure.."
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "28 days / 30 days",
+      "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.. e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.. Visa on arrival can be issued for tourism at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days (1 year from 30 August 2023)."
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nepal": {
+      "status": "visa-free",
+      "requirement": "Freedom of movement",
+      "stay": "Unlimited",
+      "notes": "Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Nepal by air and land.. Indian citizens may live and work freely in Nepal under the terms of the 1950 Indo-Nepal Treaty of Peace and Friendship. This treaty is implemented in law through section 14 of the Nepal Immigration Act 1992, regulations 3, 20 and 44A of the Nepal Immigration Regulation 1994, and section 8.4 the Nepal Immigration Procedures 2008.."
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://www.netherlandsworldwide.nl/visa-the-netherlands/visa-required."
+    },
+    "New Zealand": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.."
+    },
+    "Nicaragua": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Passengers must have a valid visa issued by Nicaragua. Passengers with a passport that states El Salvador, Guatemala, Honduras or Nicaragua as their place of birth do not need a visa. Passengers can obtain an e-visa before departure at https://tramitesconsulares.mint.gob.ni, which can be verified at https://evisa-verifica.mint.gob.ni/public/verificar_visa."
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid double- or multiple-entry C visa issued by a Schengen Area member state or by a British, Canadian, or U.S. visa for maximum stay of 15 days. Proof of onward travel required. Note that the visa must be 'inserted in the passport' precluding digital and card resident permits.."
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights.."
+    },
+    "Oman": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "14-days Visa on arrival for Indians holding a valid Australia, Canada, Japan, UK, US or Schengen visa or residence permit. Also for Gulf Cooperation Council residents.."
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid multiple entry visa issued by the US (including permanent residents ), UK, Canada, Australia, Japan, South Korea, Singapore, or an EU member state, which has been used at least once to enter those countries and with at least one year validity remaining at the time of entry into Panama. [ clarification needed ]."
+    },
+    "Papua New Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Paraguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Peru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Nationals of India who have a valid Australia, Canada, UK, US or Schengen Area visa or permanent resident permit can stay a visa-free up to 180 days within any 365-day period for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.."
+    },
+    "Philippines": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "14 days / 59 days",
+      "notes": "14-day visa-free for tourism only.. Visa-free for holders of a valid Australia, Canada, Japan, Schengen, Singapore, UK or US visa or resident visa for 30 days (only for tourism).. Visa required for other travel purposes, including transit.. A single or multiple entry eVisa for stays of up to 59 days is also available.."
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://www.gov.pl/web/india/visas---general-information."
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://vistos.mne.gov.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa#airport-transit-visa-requirements."
+    },
+    "Qatar": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "A visa waiver for 30 days can be granted on arrival, given the following conditions: Must have a confirmed return ticket.. Must provide a confirmed hotel reservation booked through the Discover Qatar website for the entire stay, subject to a minimum of a two-night booking..."
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Russia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "An application must be made 40 to 4 days before the intended entry date.."
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "May enter with East Africa Tourist Visa (100 USD), valid for 90 days and multiple entries in Kenya, Rwanda, and Uganda.."
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "6 weeks",
+      "notes": ""
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "unknown",
+      "requirement": "Entry permit on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "San Marino": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "No border control but accessible only via Italy; thus, Italian visa rules apply.."
+    },
+    "São Tomé and Príncipe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Saudi Arabia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Tourist visa on arrival for holders of valid Schengen, UK and US visa. Visitors must arrive through national carrier of Saudi Arabia.. Visa on arrival if holding two or multiple entry short-stay valid visa issued by UK, US or a Schengen member state for stays of no more than 90 days.. Saudi Arabia announced 96 hour free transit visa for passengers of saudia or flynas when stopover the country valid for 90 days.. Visitors can get visa on arrival at any international airport in Saudi Arabia but they must have a credit card to pay a fee amounting to SR 440 (Dh 431) as cash is not accepted. They will be allowed to stay for 90 days at a stretch and can enter the Kingdom of Saudi Arabia multiple times during the validity period of their visit visa.."
+    },
+    "Senegal": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Serbia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period. Transfers allowed.. Invitation letter in the case of a private visit, i.e. proof of accommodation or proof of itinerary from the travel agency in the case of a tourist visit. Even if you intend NOT to use a travel agency the embassy will insist on an invitation letter.. National visa may be substituted by a valid visa OR residence permit issued by any EU member state, Schengen Area member state, UK, or US, for a period not exceeding 90 days in a 180-day period and within the validity of the visa or residence permit.."
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "Electronic Border System",
+      "stay": "3 months",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.."
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": ""
+    },
+    "Singapore": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May obtain online e-Service through eligible authorized travel agencies. or through local sponsors (Singapore citizen or permanent residents).. Indian nationals who are entering Singapore by any mode of transport but departing only via air or sea and having a valid visa or long-term pass with validity at least 1 month from entry date from countries such as Australia, Canada, Germany, Japan, New Zealand, UK, US and Switzerland who are in transit to or from any third country may be conditionally eligible for 96-hours Visa-Free Transit Facility (VFTF).."
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application can be obtained.. Need to submit the application at Slovenian Embassy/consulate in New Delhi.."
+    },
+    "Solomon Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Who are entering South Africa through either OR Tambo International Airport, Cape Town International Airport and Lanseria International Airport.."
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.. Printed visa authorization must be presented at the time of travel.."
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Transit visa required, except if holding a valid visa or residence permit issued by Canada, Cyprus, Ireland, Japan, Schengen Area, UK, the US or a residence permit issued by Andorra, Monaco, or San Marino.."
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "Free ETA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Suriname": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://www.eda.admin.ch/countries/india/en/home/visa/entry-ch/transit/do-i-need-an-airport-transit-visa.html."
+    },
+    "Syria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tajikistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "e-Visa holders can enter through all border points.. A color scan of the passport must be uploaded; photographs taken with a phone are not accepted.. A letter of invitation may be requested at the discretion of the consulate. If required, the applicant will be notified by email with instructions to upload the document. In cases of solo travel, a cover letter explaining that the applicant is independently organizing their itinerary without assistance from a travel agency—and is therefore unable to provide an invitation letter—may be accepted at the consulate’s discretion.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Thailand": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": "Visa-free for a stay of up to 60 days.. From 1 May 2025, a digital arrival card must be filled, up to three days before arrival (TDAC).."
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": ""
+    },
+    "Tonga": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Trinidad and Tobago": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required (conditional)",
+      "stay": "",
+      "notes": "Groups of five or more people booking through a travel agency may enter without a visa. They must have a return ticket and a confirmed hotel reservation.."
+    },
+    "Turkey": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Conditional single-entry eVisa issued for the period of 30 days to holders of a valid visa or residence permit issued by one of the Schengen member countries, US, UK, or Ireland.."
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.. When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.."
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "May enter with East Africa Tourist Visa, valid in Rwanda, Uganda, and Kenya for stays of up to 90 days (fee: USD 100).. e-Visa must be obtained prior to arrival.."
+    },
+    "Ukraine": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Reintroduces e-Visa system for Indian travelers from 17 February 2025 which was suspended due to the Russia-Ukraine Conflict.."
+    },
+    "United Arab Emirates": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May apply using 'Smart service'.. Duration: Generally, visitation visas are granted for 30, 60, or 90 days, contingent upon the particular conditions and the nature of the relationship between the sponsor and the guest. Indians holding a valid US or UK or EU visit visa or residence visa which is valid for a minimum of 6 months can obtain a visa on arrival for a maximum stay of 14 days.. Indians holding a residency permit from Singapore, Japan, South Korea, Australia, New Zealand, and Canada are also eligible for a visa on arrival.. Cost for 14 days visa is AED 100 (subject to change). They can apply to extend their stay for an additional 14 days for AED 250 (subject to change).. Visitors normally require a sponsor but visas can also be arranged online through an airline if they are arriving on Air Arabia, Air Astana, Emirates, Etihad (and Air Baltic and Air Serbia ), flydubai, Turkish Airlines, and Indigo Airlines.."
+    },
+    "United Kingdom and Crown dependencies": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA.. Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".. Other exemptions apply for Visa-free Direct Airside Transit.."
+    },
+    "United States": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Transit visa required.."
+    },
+    "Uruguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa issued free of cost.. No visa required for diplomatic passports.. (5) Prior authorization required."
+    },
+    "Uzbekistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.."
+    },
+    "Vanuatu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Schengen visa required. Entry can be made only from Italy; thus, Italian visa rules apply.."
+    },
+    "Venezuela": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Vietnam": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "e-Visa is valid for 90 days and multiple entry.. In November 2023, the authorities in Vietnam has proposed to waive visas for citizens of India.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).."
+    },
+    "Zambia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {
+        "Argentina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Indian passport holders with a valid U.S. visa of type B2 / J / B1 / O / P (P1-P2-P3) / E / H-1B, or a U.S. Green Card can travel to Argentina visa-free.."
+        },
+        "Chile": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Indian nationals, holders of a US visa of any kind (including Green Card) - except for type C (transit) - with at least six months validity at the time of arrival, shall be exempt from obtaining a Temporary Admission Visa (previous Tourist Visa) to enter Chile.."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid double- or multiple-entry C visa issued by a Schengen Area member state or by a British, Canadian, or U.S. visa for maximum stay of 15 days. Proof of onward travel required. Note that the visa must be 'inserted in the passport' precluding digital and card resident permits.."
+        },
+        "Philippines": {
+          "status": "evisa",
+          "requirement": "Visa not required / eVisa",
+          "stay": "14 days / 59 days",
+          "notes": "14-day visa-free for tourism only.. Visa-free for holders of a valid Australia, Canada, Japan, Schengen, Singapore, UK or US visa or resident visa for 30 days (only for tourism).. Visa required for other travel purposes, including transit.. A single or multiple entry eVisa for stays of up to 59 days is also available.."
+        },
+        "Saudi Arabia": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Tourist visa on arrival for holders of valid Schengen, UK and US visa. Visitors must arrive through national carrier of Saudi Arabia.. Visa on arrival if holding two or multiple entry short-stay valid visa issued by UK, US or a Schengen member state for stays of no more than 90 days.. Saudi Arabia announced 96 hour free transit visa for passengers of saudia or flynas when stopover the country valid for 90 days.. Visitors can get visa on arrival at any international airport in Saudi Arabia but they must have a credit card to pay a fee amounting to SR 440 (Dh 431) as cash is not accepted. They will be allowed to stay for 90 days at a stretch and can enter the Kingdom of Saudi Arabia multiple times during the validity period of their visit visa.."
+        }
+      }
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Visa Exempt for person:. (a) having a valid residence permit in one of the Schengen countries, US or UK.. (b) having a valid multiple entry Schengen visa and the visa must have been used once in a Schengen area country.. (c) holding a 10-year UAE residence permit with a remaining validity of more than one year.. (d) holder of a valid multiple-entry US or UK visa, which must have been used once in the country of issuance.."
+        },
+        "Andorra": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Andorra has no visa regime, but is only accessible through France and Spain: a double- or multiple-entry Schengen Visa or a Schengen Area residence permit is required.."
+        },
+        "Antigua and Barbuda": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "Visa on arrival for 100 USD, for a maximum stay of 30 days for valid visa holders or residents of Canada, the Schengen Area member states, UK, and US.."
+        },
+        "Belarus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visas are waived if you hold a visa for EU countries and the Schengen area.. National visa may be substituted with a Schengen visa or a national visa of country of EU, and if arriving and departing via Minsk International Airport.."
+        },
+        "Belize": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Permanent residents and holders of multiple entry visa of the US or Canada may obtain a visa on arrival. Holders of a valid visa issued by a Schengen Member state are visa exempt for a maximum stay of 90 days.."
+        },
+        "Bosnia and Herzegovina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "6 months",
+          "notes": "National visa may be substituted with a valid multiple-entry visa issued by an EU or Schengen Area member state or the US.."
+        },
+        "Colombia": {
+          "status": "evisa",
+          "requirement": "Online Visa",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid C or D visa issued by a Schengen Area member state or a valid visa (with 180 days left) issued by the US (except for C1 transit visas).."
+        },
+        "Cyprus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a double- or multiple-entry C visa issued by a Schengen Area member state.."
+        },
+        "Guatemala": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa issued by Canada, the US, or a Schengen Area member state.."
+        },
+        "Honduras": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa issued by Canada, the US or a Schengen Area member state.."
+        },
+        "Mexico": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK, or Schengen Area member state to enter Mexico for tourism, transit, or business purposes.. Transit Visa: required.."
+        },
+        "Moldova": {
+          "status": "evisa",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by the United Kingdom, Schengen Area or European Union member state for visits up to 90 days.. Exempt for Indians holding a valid residence permit or valid visas (excluding transit visas) of US, Canada.. Indian citizens can apply for a visa online without needing an invitation letter.. e-Visa is issued for a maximum of 90 days in the previous 180-day period plus forthcoming 90-day period (effectively, maximum 90 days in any 270-day period).."
+        },
+        "Montenegro": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "30 days",
+          "notes": "National visa may be substituted with a valid visa or residence permit issued by a Schengen Area member state, UK, Ireland, the US, Japan, Canada, New Zealand, or Australia.. Holder of Asia-Pacific Economic Cooperation Business Travel card (APEC).."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid double- or multiple-entry C visa issued by a Schengen Area member state or by a British, Canadian, or U.S. visa for maximum stay of 15 days. Proof of onward travel required. Note that the visa must be 'inserted in the passport' precluding digital and card resident permits.."
+        },
+        "Oman": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "14-days Visa on arrival for Indians holding a valid Australia, Canada, Japan, UK, US or Schengen visa or residence permit. Also for Gulf Cooperation Council residents.."
+        },
+        "Peru": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Nationals of India who have a valid Australia, Canada, UK, US or Schengen Area visa or permanent resident permit can stay a visa-free up to 180 days within any 365-day period for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.."
+        },
+        "Saudi Arabia": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Tourist visa on arrival for holders of valid Schengen, UK and US visa. Visitors must arrive through national carrier of Saudi Arabia.. Visa on arrival if holding two or multiple entry short-stay valid visa issued by UK, US or a Schengen member state for stays of no more than 90 days.. Saudi Arabia announced 96 hour free transit visa for passengers of saudia or flynas when stopover the country valid for 90 days.. Visitors can get visa on arrival at any international airport in Saudi Arabia but they must have a credit card to pay a fee amounting to SR 440 (Dh 431) as cash is not accepted. They will be allowed to stay for 90 days at a stretch and can enter the Kingdom of Saudi Arabia multiple times during the validity period of their visit visa.."
+        },
+        "Serbia": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "90 days within any 180-day period. Transfers allowed.. Invitation letter in the case of a private visit, i.e. proof of accommodation or proof of itinerary from the travel agency in the case of a tourist visit. Even if you intend NOT to use a travel agency the embassy will insist on an invitation letter.. National visa may be substituted by a valid visa OR residence permit issued by any EU member state, Schengen Area member state, UK, or US, for a period not exceeding 90 days in a 180-day period and within the validity of the visa or residence permit.."
+        },
+        "Vatican City": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Schengen visa required. Entry can be made only from Italy; thus, Italian visa rules apply.."
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Visa Exempt for person:. (a) having a valid residence permit in one of the Schengen countries, US or UK.. (b) having a valid multiple entry Schengen visa and the visa must have been used once in a Schengen area country.. (c) holding a 10-year UAE residence permit with a remaining validity of more than one year.. (d) holder of a valid multiple-entry US or UK visa, which must have been used once in the country of issuance.."
+        }
+      }
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {}
+    }
+  }
+}

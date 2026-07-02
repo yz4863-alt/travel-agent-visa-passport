@@ -1,0 +1,1285 @@
+{
+  "passport": "Algeria",
+  "nationality": "Algerian",
+  "slug": "algeria",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Algerian citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa is only approved if issued by a diplomatic mission approved by the Taliban. Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.. e-Visa: Visitors must arrive at Kabul International (KBL).. ✓"
+    },
+    "Albania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa is not required for Holders of a valid multiple-entry Schengen, UK or US visa has been previously used once or residence permit of Schengen, UK, US or UAE 10 years.. X"
+    },
+    "Andorra": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Up to three visa-free entries per calendar year, for a duration of 30 days each.. X"
+    },
+    "Antigua and Barbuda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Algerians with a visa or residency issued by Canada, USA, United Kingdom or a Schengen Member State can obtain a visa upon arrival that costs USD 100 for a maximum of 30 days.. X"
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Armenia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "120 days",
+      "notes": "Visa on arrival if holding a valid residence permit or valid visa issued by the EU and Schengen member states, the USA, Australia, New Zealand, the Republic of Korea, the UK, Canada, the Russian Federation, or Japan or a valid residence permit (physical card or sticker ) issued by the GCC member states.. ✓"
+    },
+    "Australia and territories": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May apply online (Online Visitor e600 visa).. X"
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Azerbaijan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Algerians are eligible to obtain a 30-day tourist Visa on Arrival if holding a residence permit issued by one of GCC state members. They must present their valid visa or residence permit along with their passport.. ✓"
+    },
+    "Bahamas": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": "✓"
+    },
+    "Bangladesh": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "✓"
+    },
+    "Belarus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Belize": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Benin": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visa fee is 40 USD per person and visa application may be processed within 5 business days with duration of stay of 90 days.. e-Visa applicant is also subject to pay Sustainable Development Fee. X"
+    },
+    "Bolivia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Brazil": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Brunei": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Burkina Faso": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Burundi": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": "X"
+    },
+    "Cambodia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "US permanent residents (Green card) holders can enter visa free. ✓"
+    },
+    "Cape Verde": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa on arrival at Sal, Boa Vista, São Vicente or Santiago international airports.. Requirement to register online five days before arrival. Also pay the airport security fee of CVE 3400 either online or on arrival.. X"
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Chile": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "China": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Colombia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": "X"
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": "X"
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of a valid multiple-entry visa of any member state of the Schengen Area, Canada, or the United States may enter Cost Rica without a visa for maximum stay of 30 days. ✓"
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Can be extended up to 90 days with a fee.. X"
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "21 days",
+      "notes": "X"
+    },
+    "Dominican Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for Algerians with a valid multiple entrance schengen visa for a maximum stay of 180 days.. ✓"
+    },
+    "Ecuador": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Egypt": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for Algerian citizens under the age of 14.. ✓"
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "up to 90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.. X"
+    },
+    "Fiji": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive via Libreville International Airport.. X"
+    },
+    "Gambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Georgia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Ghana": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Grenada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required up to 90 days if holding a valid residence permit issued by Australia, Canada, GCC member state the United States the United Kingdom or a Schengen Area Member State.. ✓"
+    },
+    "Guinea": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "X"
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Guyana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required if holding a valid visa for at least 6 months at the time of arrival, issued by Canada, the United States or a Schengen Area Member State.. ✓"
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "India": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Indonesia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Iran": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "✓"
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Israel": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Jamaica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Japan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Eligible for an e-Visa if residing in one these countries Australia, Brazil, Cambodia, Canada, India, Saudi Arabia, Singapore, South Africa, Taiwan (Province of China), United Arab Emirates, United Kingdom, United States.. May apply online. ✓"
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Free of charge.. X"
+    },
+    "Kazakhstan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Kenya": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Kiribati": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "South Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-Free access to Jeju Island for 30 days.. Multiple-Entry Visa may be granted to whom entered South Korea four or more times within the last two years, or 10 or more visits in total (one of those 10 visits should be within the last two years).. May apply online. ✓"
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: To be 18 years old and over.. The residence permit for a GCC state must be valid for at least another 3 months.. To be accompanied by the sponsor of the residence permit if the sponsor is an individual.. Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa. ✓"
+    },
+    "Kyrgyzstan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "X"
+    },
+    "Laos": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Lebanon": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa on arrival at Beirut International Airport or any other port of entry only if they are holding a copy of a reservation in a 3- to 5-star hotel or private residential address with telephone number in the Republic of Lebanon, at least US$2,000 in cash, a non-refundable return or circle trip ticket, and there are no Israeli stamps, visas, or seals on their passport.. X"
+    },
+    "Lesotho": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "14 days",
+      "notes": "X"
+    },
+    "Liberia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Libya": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "60 days",
+      "notes": "X"
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "✓"
+    },
+    "Maldives": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Mali": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "✓"
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Marshall Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Mauritania": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Mauritius": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "15 days",
+      "notes": "✓"
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Algerians traveling to Mexico for tourism, business or in transit to another destination, are exempt from presenting a Mexican visa as long as they have a valid visa issued by any the following countries: Canada, Japan, the United States of America, the United Kingdom or any of the countries comprising the Schengen Area for a maximum stay of 180 days.. Algerians who have a valid permanent resident card from Canada, Japan, the United States of America, the United Kingdom or any of the countries comprising the Schengen Area, do not require a Mexican visa.. Algerian visitors who travel on cruise ships that disembark at any Mexican port to visit the port and surrounding zones and embark on the same ship to continue their voyage, do not require a visa and will have collective permission under the category of “visitor without permission to conduct remunerated activities”, for a period of 21 calendar days.. ✓"
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Moldova": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "visa not required if holding a valid visa /residence permit that is issued by a European Union member state or Schengen Area, Canada, Ireland, UK, US. X"
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Mongolia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Morocco": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "✓"
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "28 days",
+      "notes": "X"
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "eVisa/ Visa on arrival",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "New Zealand": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.. ✓"
+    },
+    "Nicaragua": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "✓"
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required for stays upto 15 days if holding a valid multiple entry visa of Canada, the United States, United Kingdom, Schengen Area member state, or residence permit of Schengen Area member state.. ✓"
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Oman": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "For a visa exemption, citizens of Algeria are required to be either residents or have a valid entry visa for one of the following countries ( the United States of America, Canada, Australia, The United Kingdom, Schengen Agreement countries, Japan ), or to be residents of one of the countries of The GCC countries and its profession are among the professions that benefit from the resident visa.. ✓"
+    },
+    "Pakistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days / 3 months",
+      "notes": "Online Visa eligible.. Issued in 7-10 business days.. X"
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required for holders of a multiple-entry visa valid for at least 6 months at the time of entry or permanent residency issued by Australia, Canada, European Union, Japan, Singapore, South Korea, US, UK.. ✓"
+    },
+    "Papua New Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.. X"
+    },
+    "Paraguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Peru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Philippines": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Residents of the United Arab Emirates may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application.. ✓"
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Qatar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Russia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Saint Lucia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Samoa": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": "X"
+    },
+    "San Marino": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "São Tomé and Príncipe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "X"
+    },
+    "Saudi Arabia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Tourist visa on arrival for holders of a valid multiple entry visa from US, UK or Schengen area, under the condition that the multiple entry visa has been used at least once, proving that by showing the entry and exit stamps of the country of issuance.. ✓"
+    },
+    "Senegal": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Serbia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days for visa holders or residents of the European Union member states and the United States.. ✓"
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "ETA required",
+      "stay": "3 months",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.. ✓"
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "✓"
+    },
+    "Singapore": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application can be submitted online using the 'e-Service' through a strategic partner or a local contact in Singapore.. ✓"
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Solomon Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "x"
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online.. Printed visa authorization must be presented at the time of travel.. X"
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "60 days / 30 days",
+      "notes": "X"
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Suriname": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.. Multiple entry e-Visa is also available.. X"
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Syria": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "According to the Law No. 2 of 2014 all visitors require visas prior to arrival.. ✓"
+    },
+    "Tajikistan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "60 days",
+      "notes": "e-Visa holders can enter through all border points.. X"
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Thailand": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "✓"
+    },
+    "Timor-Leste": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "X"
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": "X"
+    },
+    "Tonga": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Trinidad and Tobago": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "✓"
+    },
+    "Turkey": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Official passport holders are exempted from visa for their travels up to 90 days. Ordinary passport holder Algerian citizens, under the age of 15 and above the age of 50 are exempted from visa up to 90 days within any 180 day period for their touristic visits. Ordinary passport holders between the age of 15 and 50 are required to have visa. Ordinary passport holder Algerian citiziens between the ages of 15-18 and 35-50 with a valid Schengen members or USA, UK, Ireland visa or residence permit may get their one month period single entry e-Visas via the website www.evisa.gov.tr... ✓"
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": "X"
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Ukraine": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "United Arab Emirates": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May apply using 'Smart service'.. ✓"
+    },
+    "United Kingdom and Crown dependencies": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "United States and territories": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Uruguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Uzbekistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.. X"
+    },
+    "Vanuatu": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "✓"
+    },
+    "Venezuela": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.. ✓"
+    },
+    "Vietnam": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "e-Visa is valid for 90 days and multiple entry.. ✓"
+    },
+    "Yemen": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": "X"
+    },
+    "Zambia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "X"
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months",
+      "notes": "X"
+    },
+    "Abkhazia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kosovo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Do not need a visa a holder of a valid biometric residence permit issued by one of the Schengen member states or a valid multi-entry Schengen Visa, a holder of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union a holder of a valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days' stay)",
+      "notes": ""
+    },
+    "Northern Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Palestine": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Arrival by sea to the Gaza Strip not allowed.",
+      "notes": ""
+    },
+    "Somaliland": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days for 30 USD, payable on arrival.",
+      "notes": ""
+    },
+    "South Ossetia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
+      "notes": ""
+    },
+    "Taiwan (Province of China) (Province of China)": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Algerian citizens are subject to special visa requirements and may only visit Taiwan (Province of China) under specific conditions, including official invitations, business activities, medical treatment, family visits, or participation in approved events.. Those visiting Taiwan (Province of China) on business must be interviewed by a Taiwanese consular officer, and their sponsors in Taiwan (Province of China) must submit a guarantee to the Bureau of Consular Affairs in Taiwan (Province of China)..",
+      "notes": ""
+    },
+    "Transnistria": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "Registration required after 24h.",
+      "notes": ""
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "Visa is not required for Holders of a valid multiple-entry Schengen, UK or US visa has been previously used once or residence permit of Schengen, UK, US or UAE 10 years.. X"
+        }
+      }
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Antigua and Barbuda": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "Algerians with a visa or residency issued by Canada, USA, United Kingdom or a Schengen Member State can obtain a visa upon arrival that costs USD 100 for a maximum of 30 days.. X"
+        },
+        "Costa Rica": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Holders of a valid multiple-entry visa of any member state of the Schengen Area, Canada, or the United States may enter Cost Rica without a visa for maximum stay of 30 days. ✓"
+        },
+        "Dominican Republic": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required for Algerians with a valid multiple entrance schengen visa for a maximum stay of 180 days.. ✓"
+        },
+        "Mexico": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Algerians traveling to Mexico for tourism, business or in transit to another destination, are exempt from presenting a Mexican visa as long as they have a valid visa issued by any the following countries: Canada, Japan, the United States of America, the United Kingdom or any of the countries comprising the Schengen Area for a maximum stay of 180 days.. Algerians who have a valid permanent resident card from Canada, Japan, the United States of America, the United Kingdom or any of the countries comprising the Schengen Area, do not require a Mexican visa.. Algerian visitors who travel on cruise ships that disembark at any Mexican port to visit the port and surrounding zones and embark on the same ship to continue their voyage, do not require a visa and will have collective permission under the category of “visitor without permission to conduct remunerated activities”, for a period of 21 calendar days.. ✓"
+        },
+        "Moldova": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "visa not required if holding a valid visa /residence permit that is issued by a European Union member state or Schengen Area, Canada, Ireland, UK, US. X"
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa is not required for stays upto 15 days if holding a valid multiple entry visa of Canada, the United States, United Kingdom, Schengen Area member state, or residence permit of Schengen Area member state.. ✓"
+        },
+        "Saudi Arabia": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Tourist visa on arrival for holders of a valid multiple entry visa from US, UK or Schengen area, under the condition that the multiple entry visa has been used at least once, proving that by showing the entry and exit stamps of the country of issuance.. ✓"
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {}
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {}
+    }
+  }
+}

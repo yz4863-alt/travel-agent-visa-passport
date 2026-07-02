@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="AI Travel Agent maps visa-free, eVisa, visa on arrival, and visa-required access by passport."
+    >
+    <title>AI Travel Agent</title>
+    <link rel="stylesheet" href="src/styles.css">
+  </head>
+  <body>
+    <div class="boot-notice" id="bootNotice">
+      Open AI Travel Agent through a local/static server, not directly as a file. Try http://localhost:4173.
+    </div>
+    <canvas id="aiBackground" class="ai-background" aria-hidden="true"></canvas>
+    <main class="app-shell">
+      <div class="top-bar">
+        <div class="top-watermark">&copy; Yusheng (Jason) Zhang</div>
+        <a class="top-portfolio-link" href="https://jasonzhanggcs.weebly.com/ai-showcases.html">Back to Portfolio</a>
+      </div>
+      <section class="hero" aria-labelledby="app-title">
+        <div>
+          <p class="eyebrow">Passport intelligence dashboard</p>
+          <h1 id="app-title">AI Travel Agent</h1>
+          <p class="subtitle">Discover where your passport can take you.</p>
+        </div>
+        <div class="hero-meta">
+          <div class="source-card">
+            <div class="source-chip" id="sourceChip">Loading visa data</div>
+            <button class="refresh-button" id="refreshData" type="button" aria-label="Refresh Wikipedia visa data">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M20 11a8 8 0 0 0-14.2-5M4 5v5h5"></path>
+                <path d="M4 13a8 8 0 0 0 14.2 5M20 19v-5h-5"></path>
+              </svg>
+              <span>Refresh</span>
+            </button>
+            <p class="refresh-message" id="refreshMessage" hidden></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="control-panel" aria-label="Passport and visa controls">
+        <div class="passport-field">
+          <label for="passportInput">Passport Nationality</label>
+          <div class="input-row">
+            <div class="passport-combobox" id="passportCombobox">
+              <span class="input-flag" id="passportFlag" aria-hidden="true"></span>
+              <input
+                id="passportInput"
+                name="passport"
+                type="search"
+                autocomplete="off"
+                role="combobox"
+                aria-autocomplete="list"
+                aria-controls="passportOptions"
+                aria-expanded="false"
+                placeholder="select passport"
+              >
+              <div class="passport-menu" id="passportOptions" role="listbox" hidden></div>
+            </div>
+            <button class="primary-button" id="passportApply" type="button">Scan</button>
+          </div>
+        </div>
+
+        <div class="booster-panel">
+          <div>
+            <p class="booster-title">Visa enhancement</p>
+            <p class="booster-copy">
+              Have a valid US, UK, Schengen, or Canada visa? Some countries may allow additional entry based on that visa.
+            </p>
+          </div>
+          <div class="booster-options" id="boosterOptions" aria-label="Additional visas held"></div>
+        </div>
+      </section>
+
+      <section class="dashboard-grid" aria-label="Visa access dashboard">
+        <section class="map-panel" aria-label="Interactive world visa map">
+          <div class="map-toolbar">
+            <div class="legend" id="legend"></div>
+            <div class="map-actions" aria-label="Map zoom controls">
+              <button class="icon-button" id="zoomOut" type="button" aria-label="Zoom out">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14"></path></svg>
+              </button>
+              <button class="icon-button" id="zoomReset" type="button" aria-label="Reset map">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"></path></svg>
+              </button>
+              <button class="icon-button" id="zoomIn" type="button" aria-label="Zoom in">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"></path></svg>
+              </button>
+            </div>
+          </div>
+          <div class="map-frame" id="mapFrame">
+            <svg id="worldMap" role="img" aria-label="World map colored by visa access" viewBox="0 0 960 500"></svg>
+            <div class="tooltip" id="tooltip" hidden></div>
+          </div>
+          <div class="map-disclaimer">
+            <p>
+              <strong>Educational use only.</strong>
+              This portfolio showcase uses United Nations country-list framing and Wikipedia-sourced visa tables for demonstration. It is not legal, immigration, diplomatic, or travel advice. Entry rules and official positions can change; verify details with government sources before making travel decisions.
+            </p>
+            <p>
+              Names, labels, boundaries, groupings, and map depictions are presented solely for a neutral data-visualization demo. They do not express or imply any political view, endorsement, recognition, or position on sovereignty, territorial status, jurisdiction, borders, or diplomatic relations. Any disputed or sensitive geographic references should be understood as source-driven display labels for an educational software showcase, not as statements by the creator.
+            </p>
+          </div>
+        </section>
+
+        <aside class="summary-panel" aria-label="Passport visa summary">
+          <div class="agent-card">
+            <p class="panel-kicker">Travel agent brief</p>
+            <h2 id="summaryTitle">Select a passport</h2>
+            <p id="summaryCopy">Visa access will appear here after the scan.</p>
+          </div>
+
+          <div class="stats-grid" id="statsGrid"></div>
+
+          <div class="details-card">
+            <p class="panel-kicker">Country/region details</p>
+            <h2 id="countryName">No country selected</h2>
+            <p class="status-pill" id="countryStatus">Pick a country on the map</p>
+            <dl class="country-meta">
+              <div>
+                <dt>Allowed stay</dt>
+                <dd id="countryStay">-</dd>
+              </div>
+              <div>
+                <dt>Requirement</dt>
+                <dd id="countryRequirement">-</dd>
+              </div>
+            </dl>
+            <p class="country-notes" id="countryNotes"></p>
+          </div>
+        </aside>
+      </section>
+      <footer class="site-footer">
+        <span>&copy; 2026 Yusheng (Jason) Zhang.</span>
+        <span>Visa information is generated from Wikipedia-sourced tables and should be verified before travel.</span>
+      </footer>
+    </main>
+
+    <script src="src/app.js" type="module"></script>
+    <script src="src/background.js" type="module"></script>
+  </body>
+</html>

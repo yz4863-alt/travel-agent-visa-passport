@@ -1,0 +1,1280 @@
+{
+  "passport": "China",
+  "nationality": "Chinese",
+  "slug": "china",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Chinese citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "The eVisa is valid for a single entry of up to 30 days and can only be used when arriving at Kabul Airport.. An introducing letter (from employer/organization/university/etc.) is required.."
+    },
+    "Albania": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Andorra": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.."
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.. Visitors must have a return/onward ticket and a hotel reservation confirmation.. An International Certificate of Vaccination is required.."
+    },
+    "Antigua and Barbuda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days.."
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.. As of 1 October 2017, visas are issued with a 10-year validity period.. As of 22 July 2025, visa not required for holders of a valid United States visa for up to 30-day stay and may be extended once for another 30-day.."
+    },
+    "Armenia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.. Holders of passports for public affairs do not require a visa for up to 30 days.."
+    },
+    "Australia": {
+      "status": "evisa",
+      "requirement": "Online Visa required",
+      "stay": "",
+      "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).. Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centres not established in mainland China.. Chinese biometric passport holders use automated passport control SmartGate on arrival to Australia.."
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Azerbaijan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days.."
+    },
+    "Bahamas": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Bangladesh": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days.",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Belarus": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any 1 calendar year.. Holders of passports for public affairs do not require a visa for up to 30 days.."
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Belize": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required for cruise passengers.. Holders of a multi-entry visa or Permanent Resident Card issued by Canada or United States, may enter visa-free for up to 30 days.. Holders of a multi-entry visa issued by a Schengen state, may enter visa-free for up to 30 days.."
+    },
+    "Benin": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Bolivia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Brazil": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.. As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes.."
+    },
+    "Brunei": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Burkina Faso": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Cambodia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": "Visas valid for 30 days can be obtained on arrival or online.. Cambodia has decided to grant a trial visa exemption for Chinese citizens, allowing a stay of 14 days from 15 June to 15 October 2026.."
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while holding valid US visa and travelling on flights operated by Air Canada (including subsidiaries Air Canada Rouge and Jazz Air), Air China, Cathay Pacific, China Airlines, China Eastern Airlines, China Southern Airlines, Hainan Airlines, Philippine Airlines, WestJet, or Xiamen Airlines. Need to departure from Beijing, Chengdu, Fuzhou, Guangzhou, Harbin, Hong Kong SAR, China, Manila, Nagoya, Osaka, Seoul, Shanghai, Shenyang, Taipei, Tokyo, or Xiamen if travelling to the United States. Need not to be under a removal or deportation order or staying in the United States longer than the authorized time if leaving the United States.. Visa is not required for permanent residents of the United States.."
+    },
+    "Cape Verde": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date, or PR Card (green card).."
+    },
+    "Colombia": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.."
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": ""
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days.. National visa may be substituted with a visa issued by Canada or the United States.."
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "e-Visa holders must arrive via Port Bouet Airport. Holders of passports for public affairs do not require a visa.."
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Cuba": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of valid double or multiple entry Schengen visa, as well as residence permits issued by Schengen Member States are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period.."
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Dominican Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of a visa or permanent residency card issued by Canada, United States, United Kingdom, Ireland, Cyprus and any Schengen Area country can enter visa-free for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days.."
+    },
+    "Ecuador": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.."
+    },
+    "Egypt": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Chinese citizens are eligible to apply for e-Visa.. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency.."
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.. Visa free for holders of passports for public affairs.."
+    },
+    "Fiji": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "4 months",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive via Libreville International Airport.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Gambia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Georgia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Holders of valid visas or residence permits of EU / EFTA / GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-free for stays of maximum 90 days in a 180-day period. Otherwise, the default 30-day period applies.."
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ghana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Grenada": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Travellers who hold an El Salvador, Honduras, or Nicaragua visa or residency permit can enter Guatemala without a visa under the Central America-4 Border Control Agreement.. Since 2019, permanent residents of any European Union member state, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Barbados, Belize, Brazil, Brunei, Canada, Chile, Colombia, Costa Rica, Fiji, Honduras, Iceland, Israel, Japan, Kuwait, Liechtenstein, Madagascar, Malaysia, Marshall Islands, Mexico, Monaco, New Zealand, North Macedonia, Norway, Panama, Paraguay, Peru, Qatar, Russia, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, São Tomé and Príncipe, Saudi Arabia, Singapore, Solomon Islands, South Africa, South Korea, Switzerland, Taiwan (Province of China), Trinidad and Tobago, Turkey, Tuvalu, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Vanuatu, and Vatican City, can enter Guatemala without a visa, regardless of nationality.."
+    },
+    "Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guyana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.. According to Timatic, all other visitors that are not visa exempt can obtain an eVisa before departure.."
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "All non-Haitian passport holders must pay a tourist fee of 10 USD on arrival.."
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand.."
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "India": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa is no longer available due to military tension between China and India.."
+    },
+    "Indonesia": {
+      "status": "visa-on-arrival",
+      "requirement": "e-VOA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Iran": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "21 days",
+      "notes": ""
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Effective 1 March 2025, citizens of the countries that used have a visa on arrival facility are advised to apply for an e-visa before traveling to Iraq via the link.."
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021. Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.."
+    },
+    "Israel": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "As of 2017 visas are issued with a 10-year validity period.."
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Jamaica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "evisa",
+      "requirement": "eVisa (conditional)",
+      "stay": "",
+      "notes": "Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hours without a visa, subject to the discretion of immigration authorities and certain conditions.. Passengers of approved cruise ships do not require a visa if they stay no longer than 15 days.. e-Visa is available if residing in Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan (Province of China), United Arab Emirates, the United Kingdom and the United States. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary.. e-Visa is available if residing in Mongolia. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 15 December 2023.. e-Visa is also available for Chinese passport holder who resides in Mainland China (except Hong Kong SAR, China and Macau SAR, China ) only, it is a single entry visa and its duration of stay is 15 or 30 days. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 19 June 2023. The electronic visa will be issued when the agencies are ready to apply through JAPAN e-Visa.. For Chinese citizens residing in other territories, a vignette style visa is required. Multi-entry vignette style visas are also obtainable in all territories for 3 or 5 year validity.."
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "",
+      "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge )."
+    },
+    "Kazakhstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Kenya": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.. eTA fee is 32.50 USD.. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).. Yellow fever vaccination certificate is required if coming from endemic countries.."
+    },
+    "Kiribati": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 12-month period.."
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Chinese tourists may visit Tongnim County without a visa for 2 days. They may also visit Sinuiju for a day trip without a visa.. Holders of passports for public affairs do not require a visa.."
+    },
+    "South Korea": {
+      "status": "evisa",
+      "requirement": "Online Visa required",
+      "stay": "",
+      "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.. Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onward ticket and a physical visa sticker affixed to the passport (except for Australia and the United Kingdom where VEVO and eVisa services are accepted). Residence cards are not accepted. Any layovers between South Korea and the above state must not (1) be in China (including Hong Kong SAR, China and Macau SAR, China); (2) exceed 3 days.. Chinese group tourists departing from China (including Hong Kong SAR, China and Macau SAR, China) to Incheon, Gimpo, Gimhae, Cheongju, Muan, Daegu, and Yangyang International Airport in South Korea, travel within 5 days (10 days at Yangyang Airport) and then transfer to domestic flights in Korea Flight to Jeju Island.. Chinese group tourists departing from China via South Korea to Japan with a Japanese group tourist visa, and Chinese group tourists departing from Japan via South Korea to China or a third country.. From 29 September 2025 to 30 June 2026, Chinese tourists traveling in groups more than 3 people who have registered with designated travel agencies do not need a visa to visit South Korea for up to 15 days.."
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Kuwait government only issues the travel visas to the ordinary passport holders of Chinese citizens with valid UK, US, or Schengen Visas or Chinese citizens with GCC country residencies.."
+    },
+    "Kyrgyzstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required (conditional) / eVisa",
+      "stay": "21 days / 60 days",
+      "notes": "Groups of 5 to 25 tourists can enter Kyrgyzstan without a visa for up to 21 days through pre-approved travel agencies.. e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart ), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka ), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel ) and Uzbekistan (at Dostuk ).. Citizens of China arriving through the checkpoint at Manas International Airport can stay visa-free for up to 7 days if they have a voucher (which can be purchased upon arrival at Manas International Airport) with a value of at least US$500 and a return air ticket to their country of citizenship or to a third country with the right to re-enter visa-free after 21 days from the date of departure; or with long-term visas (for a period of more than 3 years) of the United States of America, the Kingdom of Great Britain and Northern Ireland, the Schengen zone, where they can stay visa-free for 7 days with the right to re-enter visa-free after 21 days from the date of departure..."
+    },
+    "Laos": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "From 1 July to 31 December, a group of 5 tourists accompanied by a travel agency can enter Laos without a visa for 15 days by arranging their itinerary through a registered travel agency in Laos and applying for visa exemption in advance.. 18 of the 33 border crossings are only open to regular visa holders.. e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad ), and in Vientiane (at Khamsavath railway station ).. Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lebanon": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "1 month",
+      "notes": "Extendable for 2 additional months.."
+    },
+    "Lesotho": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Liberia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Libya": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Maldives": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mali": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Marshall Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Available at Nouakchott–Oumtounsy International Airport.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Mauritius": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days.. Holders of permanent residency in Chile or Colombia may enter visa-free for 180 days.. Note: Temporary residence cards, permits or other documents issued by those countries such as EU temporary residency card, Canadian study/work permit, or U.S. I-20 form, EAD card are NOT accepted for entering Mexico. Only valid visas (of any category, except transit visa) physically affixed in the passport are accepted.."
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Moldova": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Except for holders of residence permits or valid visas (excluding transit visas), issued by one of the Member States of the European Union or one of the States Parties to the Schengen Agreement, by the United Kingdom of Great Britain and Northern Ireland, the United States of America, Canada which may travel to the Republic of Moldova during their validity.. Holders of passports for public affairs do not require a visa.. Chinese citizens can apply for a visa online without a need for an invitation letter.."
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Mongolia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid Schengen visa, a valid visa of Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom.. Also a residence permit in the countries of the Schengen zone, Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom for up to 30 days per stay.."
+    },
+    "Morocco": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "30 days",
+      "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 650 MZN.. Can be extendable for another 30 days.."
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "28 days",
+      "notes": "Visa policy of the Myanmar government does not apply to militia-controlled areas where the central government does not exercise actual control.. e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.. e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.. Until 29 August 2026, visa on arrival can be issued at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days.. Residents in bordering provinces can apply for an entry-exit pass that work with their automated border control system to expedite crossing.."
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Namibian authorities have proposed waiving visa requirements for citizens of China.."
+    },
+    "Nauru": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": "According to Timatic, citizens of China can obtain a visa on arrival valid for a maximum of 90 days.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "Online Visa / Free visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa is issued free of charge for Chinese tourists.."
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "New Zealand": {
+      "status": "evisa",
+      "requirement": "Online Visa required",
+      "stay": "",
+      "notes": "May enter using eGate.. Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.. Transit visa not required for passengers with an NZaTA flying to or from Australia and remaining airside for no longer than 24 hours.. Visas issued with a maximum of 5-year validity period.. From 3 November 2025 to 2 November 2026, Chinese tourists traveling from Australia with a valid Australian visitor, work, student or family visa will be able to travel to New Zealand for up to 3 months with an NZeTA.. Transit visa not required for passengers with an NZaTA remaining airside for no longer than 24 hours.."
+    },
+    "Nicaragua": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, the United States, Canada or United Kingdom for stays up to 15 days if the visa is valid for at least five days beyond the period of intended stay in North Macedonia. *Holders of passports for public affairs do not require a visa.. Visa exempt if the passport is endorsed \"for public affairs\".."
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Oman": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "14 days / 30 days",
+      "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days.."
+    },
+    "Pakistan": {
+      "status": "evisa",
+      "requirement": "Free eVisa",
+      "stay": "90 days",
+      "notes": "Online Visa eligible.. Issued in 7-10 business days.."
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": "The Chinese government declared Palau as an illegal destination of tour groups in August 2018, individual visitors from China are not affected.."
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States, Schengen (need to be valid for 6 months after entry) or the United Kingdom for up to 30 days.. As of 2 May 2019, visas are issued with a 5-year validity period for holiday, business and family visit purposes.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Papua New Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Holders of passports for public affairs do not require a visa.. Chinese tourists traveling in registered and organized travel groups are eligible for a free 30-day single-entry visitor visa.."
+    },
+    "Paraguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Peru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.."
+    },
+    "Philippines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila ) or Mactan-Cebu International Airport (in Cebu ).. Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a visa for stay up to 7 days for tourism purpose.. Trial visa-exemption up to 14 days from 16 Jan 2026 to 15 Jan 2027.."
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Qatar": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Russia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Visa-free until 14 September 2026.. Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies.."
+    },
+    "Rwanda": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "6 weeks",
+      "notes": ""
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "San Marino": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days.",
+      "notes": "Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls.."
+    },
+    "São Tomé and Príncipe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "15 days.",
+      "notes": "Holders of a visa issued by the United States and the Schengen Area do not require a visa.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Saudi Arabia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Senegal": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Holders of passports for public affairs do not require a visa for 30 days.."
+    },
+    "Serbia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Holders of passports for public affairs do not require a visa up to 90 days within a 6-month period.. Long stay (up to 180 days) visas are issued free of charge.."
+    },
+    "Seychelles": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Singapore": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Holders of travel documents other than Chinese passports must obtain visa in advance or transit without visa.."
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Solomon Islands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "The mutual visa-free agreement for ordinary passport holders takes effect on 28 December 2024.."
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization / eVisa",
+      "stay": "90 days",
+      "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days.. ETA is valid for 1 year, multi-entry, with each stay up to 90 days.. ETA issuance is usually within an hour.. In addition to ETA, e-Visa is also available.."
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online.. Printed visa authorization must be presented at the time of travel.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "Free ETA / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Suriname": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.. Multiple entry e-Visa is also available.."
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Syria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tajikistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required (conditional) / eVisa",
+      "stay": "14 days / 60 days",
+      "notes": "Holders of passports for public affairs do not require a visa.. Holders of passports which are 55 years old and more do not require a visa for 14 days.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Thailand": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days.. 60-day visa can be extended while in Thailand.."
+    },
+    "Timor-Leste": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Tonga": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Trinidad and Tobago": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.."
+    },
+    "Turkey": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period.."
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of passports for public affairs do not require a visa.."
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.."
+    },
+    "Ukraine": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Ukraine resumed its eVisa service in February 2025.."
+    },
+    "United Arab Emirates": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 180 day period.."
+    },
+    "United Kingdom and Crown dependencies": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding a valid Irish visa endorsed with BIVS. Entry permitted only if first point of entry to the Common Travel Area is in Ireland.. Visas are issued for 2,5 or 10-year validity period for holiday and business purposes.. Visa not required for transit up to 48 hours if holding a valid US, Canada, Australia (physical sticker visa required), New Zealand, Ireland (Biometric visas only), and Schengen (D visa or residence permit only) visa or permanent residence permit. Need to depart from or fly to these countries and territories if not remaining airside, either directly or via reasonable routes.."
+    },
+    "United States": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old... 10-year multiple-entry B visa holders must provide updates through the Electronic Visa Update System (EVUS) every two years.. Visa not required for Northern Mariana Islands.."
+    },
+    "Uruguay": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports.. U.S. Green Card Holders need to apply for a visa. Email your closest consulate to confirm.. As of 14 July 2018, visas are issued with a 10-year validity period for business purpose.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Uzbekistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days.."
+    },
+    "Vanuatu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Venezuela": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.. Holders of passports for public affairs do not require a visa.."
+    },
+    "Vietnam": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "e-Visa is valid for 90 days and multiple entry.. Holders of passports for public affairs do not require a visa.. Visa not required for 30 days for Phu Quoc island, including transiting through Noi Bai International Airport or Tan Son Nhat International Airport.. Visa collection on arrival can be arranged online through travel agencies and are available at Ho Chi Minh City, Hanoi, Da Nang, Nha Trang and Phu Quoc airports.. ordinary passports endorsed \"for public affairs\" may enter Vietnam without a visa.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Zambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Also eligible for a universal visa allowing access to Zimbabwe.."
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "1 month",
+      "notes": "Also eligible for a universal visa allowing access to Zambia.."
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {
+        "Argentina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.. As of 1 October 2017, visas are issued with a 10-year validity period.. As of 22 July 2025, visa not required for holders of a valid United States visa for up to 30-day stay and may be extended once for another 30-day.."
+        }
+      }
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Andorra": {
+          "status": "visa-free",
+          "requirement": "Visa not required",
+          "stay": "",
+          "notes": "Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.."
+        },
+        "Argentina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.. As of 1 October 2017, visas are issued with a 10-year validity period.. As of 22 July 2025, visa not required for holders of a valid United States visa for up to 30-day stay and may be extended once for another 30-day.."
+        },
+        "Colombia": {
+          "status": "evisa",
+          "requirement": "Online Visa",
+          "stay": "",
+          "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.."
+        },
+        "Cyprus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Holders of valid double or multiple entry Schengen visa, as well as residence permits issued by Schengen Member States are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period.."
+        },
+        "Dominican Republic": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Holders of a visa or permanent residency card issued by Canada, United States, United Kingdom, Ireland, Cyprus and any Schengen Area country can enter visa-free for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days.."
+        },
+        "Honduras": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand.."
+        },
+        "Mexico": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days.. Holders of permanent residency in Chile or Colombia may enter visa-free for 180 days.. Note: Temporary residence cards, permits or other documents issued by those countries such as EU temporary residency card, Canadian study/work permit, or U.S. I-20 form, EAD card are NOT accepted for entering Mexico. Only valid visas (of any category, except transit visa) physically affixed in the passport are accepted.."
+        },
+        "Montenegro": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid Schengen visa, a valid visa of Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom.. Also a residence permit in the countries of the Schengen zone, Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom for up to 30 days per stay.."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, the United States, Canada or United Kingdom for stays up to 15 days if the visa is valid for at least five days beyond the period of intended stay in North Macedonia. *Holders of passports for public affairs do not require a visa.. Visa exempt if the passport is endorsed \"for public affairs\".."
+        },
+        "Peru": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.."
+        },
+        "Philippines": {
+          "status": "evisa",
+          "requirement": "Visa not required",
+          "stay": "14 days",
+          "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila ) or Mactan-Cebu International Airport (in Cebu ).. Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a visa for stay up to 7 days for tourism purpose.. Trial visa-exemption up to 14 days from 16 Jan 2026 to 15 Jan 2027.."
+        },
+        "San Marino": {
+          "status": "visa-free",
+          "requirement": "Visa not required",
+          "stay": "90 days.",
+          "notes": "Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls.."
+        },
+        "São Tomé and Príncipe": {
+          "status": "evisa",
+          "requirement": "eVisa / Visa on arrival",
+          "stay": "15 days.",
+          "notes": "Holders of a visa issued by the United States and the Schengen Area do not require a visa.. Holders of passports for public affairs do not require a visa.."
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {
+        "Peru": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.."
+        }
+      }
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {}
+    }
+  }
+}

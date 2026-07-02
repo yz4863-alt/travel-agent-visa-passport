@@ -1,0 +1,1527 @@
+{
+  "passport": "Indonesia",
+  "nationality": "Indonesian",
+  "slug": "indonesia",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Indonesian citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "evisa",
+      "requirement": "eVisa (conditional)",
+      "stay": "30 days",
+      "notes": "e-Visa: Visitors must arrive at Kabul International (KBL).. Visitors may apply for an e-Visa in other countries, excluding some countries of residence (include Indonesia).. Due to safety concerns, the Indonesian government advises its citizens not to visit Afghanistan.."
+    },
+    "Albania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Nationals of Indonesia holding a valid, multiple-entry Schengen, UK, or US visa; A residence permit from a Schengen member state; or a 10-year residence permit of the UAE are permitted to enter Albania without a visa for 90 days.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Application for a tourist visa to Algeria must be accompanied either by a certificate of accommodation.. Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.. Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.."
+    },
+    "Andorra": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "There are no visa requirements for entry into Andorra, but it can only be accessed by passing through France or Spain. A multiple-entry Schengen visa is required to re-enter either France or Spain when leaving Andorra.."
+    },
+    "Angola": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.. Visitors must have a return/onward ticket and a hotel reservation confirmation.. An International Certificate of Vaccination is required.."
+    },
+    "Antigua and Barbuda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "A visa-exemption agreement was signed on 27 August 2021.."
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "A maximum of 90 days of stay per period. Electronic Travel Authorization (AVE) is available for holders of US B2 visa (with at least 3 months of validity left) at a fee of 50 USD, for a stay of up to 90 days.."
+    },
+    "Armenia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "120 days",
+      "notes": "Visa on arrival is available for holders of a valid sticker visa or resident card issued by Australia, Canada, GCC countries, Japan, New Zealand, Russia, South Korea, EU or Schengen Area member states, United Kingdom or United States.."
+    },
+    "Australia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "An Online Visitor visa can be obtained.. Transit visa is not required.. Australian visitor visa is granted up to 3 years for tourism purpose and up to 5 years for business purpose for nationals of Indonesia.."
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Azerbaijan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "e-Visa option is also available for Indonesian citizens for maximum stay of 30 days.."
+    },
+    "Bahamas": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": "e-Visa application required.. Only Nationals of Indonesia holding a Schengen, United Arab Emirates, United Kingdom, United States of America or Saudi Arabia visa (except Hajji/Umroh visa) are eligible to obtain visa on arrival.."
+    },
+    "Bangladesh": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Belarus": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "30 days",
+      "notes": "Indonesian citizens must arrive and depart via Minsk National Airport and are not on flights to or from Russia since these are regarded as the Union State internal flights with no border controls.. Indonesian citizens must also have plane tickets with confirmation of a departure date within 30 days and medical insurance in the amount of at least €10,000.."
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Belize": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa requirement is waived for valid, multiple-entry Canada, US and Schengen visa holders.."
+    },
+    "Benin": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Must have an international vaccination certificate.. Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).."
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.."
+    },
+    "Bolivia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa requirement is waived for valid multiple-entry Schengen visa or residency permit holders, with a maximum of 15 days of stay.."
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Brazil": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Brunei": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Burkina Faso": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Cambodia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "A Transit Without Visa (TWOV) is available if the Indonesian national holds a valid US visa, is traveling on an approved airline, and enters through an approved Canadian airport. ^ However, nationals may not leave the airport during their stopover.. Canada Visitor Visa issued to nationals of Indonesia is valid up to 10 years or until the passport expiry whichever shorter.. Starting 26 May 2026, Indonesian visitors who have either held a Canadian visa in the last 10 years or who \"currently hold a valid United States non-immigrant visa\" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.."
+    },
+    "Cape Verde": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": "Nationals of Indonesia are eligible to extend for additional 90 days for a total maximum stay of 150 days.."
+    },
+    "China": {
+      "status": "visa-free",
+      "requirement": "Visa required (conditional) Visa not required",
+      "stay": "",
+      "notes": "240-hour (10-day) visa-free transit to a third country or region (including Hong Kong SAR, China, Macau SAR, China or Taiwan (Province of China) ) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports. During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits... 24-hour visa-free transit to a third country or region (including Hong Kong SAR, China, Macau SAR, China, and Taiwan (Province of China)), is available at most international airports, without leaving the airport. Travellers who need to leave the airport may obtain a temporary entry permit from immigration... 5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong SAR, China by land or sea, for stays within Shenzhen.. 3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.. 15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.. May apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.. Visa not required when arriving and departing from Haikou Meilan International Airport, Hainan.. Passengers traveling as tourists can obtain a visa on arrival at Shenzhen Bao'an International Airport, Shenzen, for a maximum stay of 5 days. They must not leave Shenzhen during their stay. This is commonly done by entering Shenzhen from Hong Kong SAR, China through the Lo Wu border crossing where VoA formalities are done.."
+    },
+    "Colombia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Can be extended to a maximum of 180 days within a 1-year period.."
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": ""
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": ""
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa requirement is waived for US and Canada visa holders.."
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "e-Visa holders must enter through Félix-Houphouët-Boigny International Airport.."
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Nationals of Indonesia holding a valid, double or multiple-entry Schengen visa or a residence permit from a Schengen member state are permitted to enter Cyprus without a visa for 90 days within any 180-day period."
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "21 days",
+      "notes": ""
+    },
+    "Dominican Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not required for nationals of Indonesia holding Canada, Ireland, United States, United Kingdom or Schengen visa holders.."
+    },
+    "Ecuador": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Extendable stay.. Galapagos: A maximum of 60 days of stay; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT).."
+    },
+    "Egypt": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Passengers with a valid and used visa issued by Australia, Canada, Japan, New Zealand, USA, United Kingdom or a Schengen Member State can obtain a visa on arrival for a maximum stay of 30 days.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Egypt.."
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Required if travelling from a country with risk of yellow fever.."
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "A maximum of 30 days of stay from the day of arrival.. Extendable at the Immigration Office in Asmara.."
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.. e-Visa holders must arrive via Addis Ababa Bole International Airport.. e-Visa is available for 30 or 90 days.."
+    },
+    "Fiji": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive through Libreville International Airport.."
+    },
+    "Gambia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Georgia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "An e-Visa will be valid for 120 days with the right to stay in Georgia up to 30 days during the validity period.. Visa may be substituted with a valid visa or residence permit issued by USA, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Schengen, and GCC countries, whose holders may be granted visa-free entry for 90 days in any 180 days. The visa and other documentation must be presented at the border.."
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Ghana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival or an emergency entry visa may be obtained.."
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Grenada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Guyana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "India": {
+      "status": "evisa",
+      "requirement": "Free eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.. An Indian e-Tourist Visa may only be obtained twice within 1 calendar year.. Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.. e-Visa is issued free of charge with validity up to 5 years for nationals of Indonesia.."
+    },
+    "Iran": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "15 days",
+      "notes": "Maximum stay of 15 days within any 180-day period as a tourist.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Iran.."
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Iraq.."
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is issued free of charge for nationals of Indonesia.. Nationals of Indonesia with a valid UK standard visitor visa, if they have first entered the United Kingdom and been granted a stay of 180 days in the United Kingdom, are visa exempt for a maximum stay of 90 days in Ireland (Rep.) or until the end of the period of stay granted in the United Kingdom, whichever is shorter. Not applicable to short-stay visas issued for the purpose of transit, marriage or to enter into a civil partnership, and to long-term student visas.."
+    },
+    "Israel": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Confirmation from Israeli Foreign Ministry is required before a visa is issued.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Israel.."
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Jamaica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "visa-free",
+      "requirement": "Visa not required (conditional)",
+      "stay": "15 days",
+      "notes": "Visa exemption is valid only if registered either through Japanese consulates or through the JAVES online portal.."
+    },
+    "Jordan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa can be obtained upon arrival, at a fee of 40 JOD.. The visa is obtainable at most international ports of entry and land border crossings, except Allenby Bridge.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Jordan.."
+    },
+    "Kazakhstan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Kenya": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "90 days",
+      "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.. eTA fee is 32.50 USD.. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).. Yellow fever vaccination certificate is required if coming from endemic countries.."
+    },
+    "Kiribati": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "90 days within any 12-month period.."
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "South Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for a maximum stay of 30 days if the traveler: Holds a visa issued by Australia, Canada, USA or New Zealand, and only if they transit from or to those countries via South Korea.. Arrives and departs from Jeju International Airport, Jeju Island, for tourism purposes... Group tourists can only travel to the Gangwon-do region and the metropolitan area of South Korea, and the maximum stay is 15 days.. Starting 28 May 2026 until December 2026, group travelers of 3 persons or more can enter South Korea without visa for maximum stay of 15 days if: Travelers' names previously registered by travel agents authorized by the South Korean government, reviewed and accepted by South Korean Ministry of Justice, and. The travelers enter and depart South Korea through the same flight or ship booking..."
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kyrgyzstan": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "60 days",
+      "notes": "Visa on arrival or e-Visa is for every types of passport.. Visa on arrival is available at Manas International Airport.. e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam or Torugart ), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, or Chon-Kapka ), Tajikistan (at Bor-Dobo, Kulundu, or Kyzyl-Bel ), or Uzbekistan (at Dostuk ).."
+    },
+    "Laos": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Lebanon": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "In addition to a visa, an approval should be obtained from the immigration department of the General Directorate of General Security.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Lebanon.."
+    },
+    "Lesotho": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Libya": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "As of March 2015, due to safety concerns, Indonesian government advises its citizens not to visit Libya.."
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.."
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Malaysia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Maldives": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mali": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Marshall Islands": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mauritius": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa requirement is waived for valid US, Canada, Japan, UK or Schengen visa holders.."
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Moldova": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "A letter of invitation is required.. Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an e-Visa without an invitation.."
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "There are no visa requirements for entry into Monaco, but it can only be accessed by passing through France or Mediterranean sea. A multiple-entry Schengen visa is required to re-enter either France when leaving Monaco.."
+    },
+    "Mongolia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Holders of travel documents containing a valid Schengen visa, a valid visa of the United States of America, United Kingdom, Ireland, as well as residence permits from those countries, may enter and stay in, or transit through, the territory of Montenegro for up to 30 days, but no longer than the expiration of their visa if the validity period is shorter than 30 days.."
+    },
+    "Morocco": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Mozambique": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorization",
+      "stay": "30 days",
+      "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.."
+    },
+    "Myanmar": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Namibia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "New Zealand": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.. Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement ), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.."
+    },
+    "Nicaragua": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa is not needed for holders of a multiple-entry Schengen visa (type C) valid for at least 5 (five) days beyond the intended stay in the Republic of North Macedonia, or for holders of permanent residence in an EU Member State or a country signatory to the Schengen Agreement. Eligible individuals may stay no longer than 15 (fifteen) days upon every entry into the territory of the Republic of North Macedonia as long as the total length of stay does not exceed 90 days in any 180-day period.."
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Oman": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "14 days / 30 days",
+      "notes": ""
+    },
+    "Pakistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa requirement is waived for multiple-entry, 1 year valid USA, Australia, Canada or UK visa holders. Schengen visa holders are also included in this category.."
+    },
+    "Papua New Guinea": {
+      "status": "visa-on-arrival",
+      "requirement": "Easy Visitor Permit / Visa on arrival",
+      "stay": "60 days",
+      "notes": "Available at Gurney Airport, Mount Hagen Airport, Port Moresby Airport and Tokua Airport.."
+    },
+    "Paraguay": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Peru": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Philippines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "A single or multiple entry eVisa for stays of up to 59 days is also available.."
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Qatar": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Russia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "72-hour visa-free visit to St. Petersburg, if travelling using St. Peter Line.."
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "unknown",
+      "requirement": "Entry permit on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "San Marino": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Only accessible via Italy, therefore a Schengen visa is required,."
+    },
+    "São Tomé and Príncipe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Saudi Arabia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Passengers and first-degree family members of passengers with a tourist or business visa issued by USA, United Kingdom, or a Schengen Member State traveling as tourists can obtain a visa on arrival for a maximum stay of 90 days. The visa must have been used at least once and should have an entry stamp of the issuing country. Passengers are allowed a total stay of 90 days within a period of 12 months.. Travellers holding Umroh Visa can now travel outside Medina and Mekkah for tourism purposes.."
+    },
+    "Senegal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Serbia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "30 days within period of 1 year.."
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "Electronic Border System",
+      "stay": "3 months",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.."
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": ""
+    },
+    "Singapore": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Solomon Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Indonesian passport holders may apply for instant South African electronic travel authorisation (ETA), provided the entry is via O.R. Tambo International Airport, Cape Town International Airport or Lanseria International Airport.."
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.. Printed visa authorization must be presented at the time of travel.."
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "Free ETA/Free Visa on arrival",
+      "stay": "30 days",
+      "notes": "ETA is issued free of charge for nationals of Indonesia.."
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Suriname": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.. Multiple entry e-Visa is also available.."
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "90 days within any 180-day period in the Schengen Area.. Schengen Visa is now valid up to 5 years for nationals of Indonesia on second application.."
+    },
+    "Syria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Syria.."
+    },
+    "Tajikistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required / eVisa",
+      "stay": "30 days / 60 days",
+      "notes": "60 days with e-Visa.. Visitors to the GBAO ( Gorno-Badakhshan Autonomous Oblast) must obtain special permission. This can be applied for through the e-Visa website.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Thailand": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "60 days",
+      "notes": ""
+    },
+    "Timor-Leste": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "Extendable once.."
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": ""
+    },
+    "Tonga": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Trinidad and Tobago": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tunisia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Turkey": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "30 days per entry. A maximum of 90 days of stay within a 180-day period.."
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.. When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.."
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.."
+    },
+    "Ukraine": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Agreement on mutual visa abolishment (30 days) was approved on 18 November 2020. Visa exemption (30 days) agreement was signed in Kyiv, Ukraine on 29 June 2022.. This have not yet to be ratified.."
+    },
+    "United Arab Emirates": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "May apply using 'Smart service'.. Visa on arrival available for Indonesian ordinary passport holders that hold valid residence permit issued by USA, EU Member States, United Kingdom, Australia, Japan, Singapore, South Korea, Canada, or New Zealand.."
+    },
+    "United Kingdom": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "24-hour visa-free transit: when in transit to/from Australia, Canada, New Zealand or USA,. or if holder of residence permit issued by Australia, Canada, New Zealand or USA,. or if holder of certain EEA or Switzerland visas,. or if holder of certain Irish visas..."
+    },
+    "United States": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "B1/B2 visa issued to nationals of Indonesia is valid up to 5 years."
+    },
+    "Uruguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "No visa applications are considered further notice, this is yet to be confirmed whether it applies to every nationals that need a visa."
+    },
+    "Uzbekistan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Vanuatu": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Only accessible via Italy, therefore a Schengen visa is required.."
+    },
+    "Venezuela": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Vietnam": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": "90 days e-Visa also available.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Yemen.. Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).."
+    },
+    "Zambia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "1 month",
+      "notes": ""
+    },
+    "Anguilla": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Ascension Island": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months within any year..",
+      "notes": ""
+    },
+    "Bermuda": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "British Virgin Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "British Indian Ocean Territory": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Those visiting the Territory must have prior approval. Visiting yachts to the Outer Islands require a permit before arrival..",
+      "notes": ""
+    },
+    "Cayman Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Falkland Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Gibraltar": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Visa requirement is waived for holders of Schengen family residency permits.",
+      "notes": ""
+    },
+    "Guernsey": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Isle of Man": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Jersey": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Montserrat": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "Visa may be obtained online..",
+      "notes": ""
+    },
+    "Saint Helena": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Turks and Caicos": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Tristan da Cunha": {
+      "status": "visa-required",
+      "requirement": "Prior permission of the island Council required",
+      "stay": "",
+      "notes": ""
+    },
+    "Pitcairn Islands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": ""
+    },
+    "Hainan": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days.",
+      "notes": ""
+    },
+    "Hong Kong SAR, China": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days.",
+      "notes": ""
+    },
+    "Macau SAR, China": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days.",
+      "notes": ""
+    },
+    "Faroe Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Greenland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Aruba": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Visa requirement is waived for holders of Schengen residency permits.",
+      "notes": ""
+    },
+    "Caribbean Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Includes Bonaire, Sint Eustatius and Saba Visa requirement is waived for holders of Schengen residency permits.",
+      "notes": ""
+    },
+    "Curaçao": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Visa requirement is waived for holders of Schengen residency permits.",
+      "notes": ""
+    },
+    "Sint Maarten": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "Visa requirement is waived for holders of Schengen residency permits.",
+      "notes": ""
+    },
+    "French Guiana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states..",
+      "notes": ""
+    },
+    "French Polynesia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states.",
+      "notes": ""
+    },
+    "French West Indies": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states. includes overseas departments of Guadeloupe and Martinique and overseas collectivities of Saint Martin and Saint Barthélemy.",
+      "notes": ""
+    },
+    "Mayotte": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states..",
+      "notes": ""
+    },
+    "New Caledonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states..",
+      "notes": ""
+    },
+    "Réunion": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states..",
+      "notes": ""
+    },
+    "Saint Pierre and Miquelon": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "No visa required for holders of a permanent residency of France or one of the Schengen signatory states..",
+      "notes": ""
+    },
+    "Wallis and Futuna": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Cook Islands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "31 days, including diplomatic passport.",
+      "notes": ""
+    },
+    "Niue": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days, including diplomatic passport.",
+      "notes": ""
+    },
+    "Tokelau": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "American Samoa": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Guam": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Northern Mariana Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "U.S. Virgin Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Puerto Rico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Nationals of Indonesia holding a valid, multiple-entry Schengen, UK, or US visa; A residence permit from a Schengen member state; or a 10-year residence permit of the UAE are permitted to enter Albania without a visa for 90 days.."
+        },
+        "Canada": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "A Transit Without Visa (TWOV) is available if the Indonesian national holds a valid US visa, is traveling on an approved airline, and enters through an approved Canadian airport. ^ However, nationals may not leave the airport during their stopover.. Canada Visitor Visa issued to nationals of Indonesia is valid up to 10 years or until the passport expiry whichever shorter.. Starting 26 May 2026, Indonesian visitors who have either held a Canadian visa in the last 10 years or who \"currently hold a valid United States non-immigrant visa\" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.."
+        }
+      }
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Nationals of Indonesia holding a valid, multiple-entry Schengen, UK, or US visa; A residence permit from a Schengen member state; or a 10-year residence permit of the UAE are permitted to enter Albania without a visa for 90 days.."
+        },
+        "Andorra": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "There are no visa requirements for entry into Andorra, but it can only be accessed by passing through France or Spain. A multiple-entry Schengen visa is required to re-enter either France or Spain when leaving Andorra.."
+        },
+        "Armenia": {
+          "status": "evisa",
+          "requirement": "eVisa / Visa on arrival",
+          "stay": "120 days",
+          "notes": "Visa on arrival is available for holders of a valid sticker visa or resident card issued by Australia, Canada, GCC countries, Japan, New Zealand, Russia, South Korea, EU or Schengen Area member states, United Kingdom or United States.."
+        },
+        "Belize": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa requirement is waived for valid, multiple-entry Canada, US and Schengen visa holders.."
+        },
+        "Bosnia and Herzegovina": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa requirement is waived for valid multiple-entry Schengen visa or residency permit holders, with a maximum of 15 days of stay.."
+        },
+        "Cyprus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Nationals of Indonesia holding a valid, double or multiple-entry Schengen visa or a residence permit from a Schengen member state are permitted to enter Cyprus without a visa for 90 days within any 180-day period."
+        },
+        "Egypt": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Passengers with a valid and used visa issued by Australia, Canada, Japan, New Zealand, USA, United Kingdom or a Schengen Member State can obtain a visa on arrival for a maximum stay of 30 days.. As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Egypt.."
+        },
+        "Monaco": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "There are no visa requirements for entry into Monaco, but it can only be accessed by passing through France or Mediterranean sea. A multiple-entry Schengen visa is required to re-enter either France when leaving Monaco.."
+        },
+        "Montenegro": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Holders of travel documents containing a valid Schengen visa, a valid visa of the United States of America, United Kingdom, Ireland, as well as residence permits from those countries, may enter and stay in, or transit through, the territory of Montenegro for up to 30 days, but no longer than the expiration of their visa if the validity period is shorter than 30 days.."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa is not needed for holders of a multiple-entry Schengen visa (type C) valid for at least 5 (five) days beyond the intended stay in the Republic of North Macedonia, or for holders of permanent residence in an EU Member State or a country signatory to the Schengen Agreement. Eligible individuals may stay no longer than 15 (fifteen) days upon every entry into the territory of the Republic of North Macedonia as long as the total length of stay does not exceed 90 days in any 180-day period.."
+        },
+        "Panama": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa requirement is waived for multiple-entry, 1 year valid USA, Australia, Canada or UK visa holders. Schengen visa holders are also included in this category.."
+        },
+        "Saudi Arabia": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Passengers and first-degree family members of passengers with a tourist or business visa issued by USA, United Kingdom, or a Schengen Member State traveling as tourists can obtain a visa on arrival for a maximum stay of 90 days. The visa must have been used at least once and should have an entry stamp of the issuing country. Passengers are allowed a total stay of 90 days within a period of 12 months.. Travellers holding Umroh Visa can now travel outside Medina and Mekkah for tourism purposes.."
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {
+        "Panama": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa requirement is waived for multiple-entry, 1 year valid USA, Australia, Canada or UK visa holders. Schengen visa holders are also included in this category.."
+        }
+      }
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {
+        "Canada": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "A Transit Without Visa (TWOV) is available if the Indonesian national holds a valid US visa, is traveling on an approved airline, and enters through an approved Canadian airport. ^ However, nationals may not leave the airport during their stopover.. Canada Visitor Visa issued to nationals of Indonesia is valid up to 10 years or until the passport expiry whichever shorter.. Starting 26 May 2026, Indonesian visitors who have either held a Canadian visa in the last 10 years or who \"currently hold a valid United States non-immigrant visa\" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ai-travel-agent",
+  "version": "1.0.0",
+  "description": "Static AI Travel Agent passport visa-access map powered by Wikipedia-sourced JSON data.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.js",
+    "start": "node scripts/serve.js",
+    "update:data": "node scripts/updateVisaData.js",
+    "validate": "node scripts/validateStaticSite.js",
+    "build": "node scripts/validateStaticSite.js"
+  }
+}

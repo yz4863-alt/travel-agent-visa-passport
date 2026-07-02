@@ -1,0 +1,1627 @@
+{
+  "passport": "Pakistan",
+  "nationality": "Pakistani",
+  "slug": "pakistan",
+  "source": "Wikipedia",
+  "sourcePage": "Visa requirements for Pakistani citizens",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+  "lastUpdated": "2026-07-02",
+  "countries": {
+    "Afghanistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Not eligible for the e-Visa program available to most nationalities.."
+    },
+    "Albania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visa not required for passengers with a valid multiple entry Schengen visa, or residency permit with the condition that the visa must have been used previously in one of the countries of the Schengen area.. Visa not required for passengers with a valid 10-year UAE residence permit or holders of a multiple entry visa or residency permit for the United States or the United Kingdom.."
+    },
+    "Algeria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Application for a tourist visa to Algeria must be accompanied either by a certificate of accommodation.. Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.. Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.."
+    },
+    "Andorra": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Andorra has no international airport and can only be accessed via land border with France or Spain. You will need a Valid passport with two or multiple-entry Schengen visas in order to enter, as lawful re-entry via land France or Spain is required. https://visitandorra.com/en/visitor-information/before-you-arrive/passport-visas-customs/ Archived 5 July 2017 at the Wayback Machine."
+    },
+    "Angola": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.. Visitors must have a return/onward ticket and a hotel reservation confirmation.. An International Certificate of Vaccination is required.."
+    },
+    "Antigua and Barbuda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "30 day Visa on arrival (100 USD ) if holding valid visa Schengen Visa or residency.. 30 day Visa on arrival (100 USD ) if holding valid visa or Permanent residency to UK, US or Canada.."
+    },
+    "Argentina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Armenia": {
+      "status": "visa-required",
+      "requirement": "Invitation required",
+      "stay": "",
+      "notes": "Visas are granted by invitation only by the authorities, foreign diplomatic representations, international organizations, or their representatives accredited in the Republic of Armenia.. Nationals of Pakistan who hold a valid residence permit issued by the US, EU state, Schengen Area States, any of the six GCC countries, and whose residence permit is valid for at least six months from the date of entry into the Republic of Armenia, are exempt from the visa requirement starting from January 1 to July 1, 2026. They can stay in the territory of the Republic of Armenia without a visa for up to 180 days within a one-year period (they must carry the physical card having key information in Latin script).."
+    },
+    "Australia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Online visa available using the tourist stream under Visa class: Visitor-600 can be obtained online for 150.00 AUD at https://online.immi.gov.au/lusc/login. After applying some applicants, depending on the information that they input, MAY be asked to submit their biometrics as an additional requirement to the nearest embassy, consulate or authorized processing center or be asked to submit further information before their visa is available for download.. Visa granted can be for a time of 3, 6 or 12 months.."
+    },
+    "Austria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Azerbaijan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Passengers with a residence permit issued by the United Arab Emirates can obtain a visa upon arrival for a maximum of 30 days (provided the passport is valid for at least 123 days, and the residence permit for at least 183 days).."
+    },
+    "Bahamas": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Bahrain": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Bangladesh": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application can be completed online and submitted to the nearest Bangladeshi Embassy https://www.visa.gov.bd/ Archived 3 April 2023 at the Wayback Machine. Polio vaccine required. Visa on arrival (30 days) may be available to Pakistani Nationals who are residents of countries that do not have a Bangladesh diplomatic/consular mission.."
+    },
+    "Barbados": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Belarus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "30 day visa-free access for holders of a valid multi-entry EU or Schengen visa. https://www.belarus.by/rel_image/6400."
+    },
+    "Belgium": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Belize": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free entry for Permanent residents and holders of multiple entry visa to USA and Canada.. Visa-free entry for visa holders of a Schengen Member State 90 days.."
+    },
+    "Benin": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Must have an international vaccination certificate.. Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).."
+    },
+    "Bhutan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.."
+    },
+    "Bolivia": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": "Yellow fever vaccination certificate required.. Criminal and/or police record, issued by the competent authority in the country of origin or last residence required."
+    },
+    "Bosnia and Herzegovina": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding two or multiple entry short-stay visa or residence permit issued by a Schengen member or EU state for stays that are of no more than 90 days.."
+    },
+    "Botswana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 month",
+      "notes": "Both Single entry and Multi entry eVisa (3 months) available online.."
+    },
+    "Brazil": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Brunei": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Polio vaccination certification required.."
+    },
+    "Bulgaria": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.."
+    },
+    "Burkina Faso": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Transit through Burkina Faso, for less than 24 hours, does not need a transit visa if they are continuing their journey by the same or first connecting aircraft and they do not leave the airport.. Yellow fever vaccination required.."
+    },
+    "Burundi": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "1 month",
+      "notes": "The Burundi Embassy in USA announced that as of 2021, nationals of all countries receive visa on arrival at Burundi International Airport and all land borders.. Yellow fever vaccine certificate required. Pakistani nationals can apply for a visa in advance at the Burundi consulate in Doha, Dubai or the nearest embassy.."
+    },
+    "Cambodia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": "Visa on arrival at border checkpoints not supported by eVisa."
+    },
+    "Cameroon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Canada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival for United States Permanent residence (Green card) holders.. All visitors to Canada must submit Electronic Travel Authorization (eTA) when entering Canada via air.."
+    },
+    "Cape Verde": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Central African Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Chad": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Chile": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "China": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "24-hour visa-free transit through any international airports of China (except Ürümqi ), allows domestic travel through different airports.. Pakistani nationals who wish to travel to China as a tourist (Type L visa) are requested to join a tourist group (more than 5 people), which should be arranged through an authorized Chinese travel agency with an invitation letter.."
+    },
+    "Colombia": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": "All visitors require ETA \"Check Mig\" form must be submitted at most 72 hours before departure, as well as within 72 hours of exiting Columbia (Exit visa). https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf Archived 3 April 2023 at the Wayback Machine.."
+    },
+    "Comoros": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "45 days",
+      "notes": "Visa on Arrival fee is 50 USD.."
+    },
+    "Costa Rica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "30 day Visa-free access for Permanent residents or Multi entry visa holders to United States or Canada.. 30 day Visa-free access for Permanent residents, Students or those in possession of a work visa from EU countries, United Kingdom, Switzerland, Norway or Iceland.."
+    },
+    "Côte d'Ivoire": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "e-Visa holders must arrive via Félix-Houphouët-Boigny International Airport.. Yellow fever vaccine certificate required."
+    },
+    "Croatia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free entry for holders of a valid multi-entry visa or residence permit of Bulgaria, Cyprus or Romania.."
+    },
+    "Cuba": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visitors require an Advanced travel information form (D'VIAJEROS) at https://dviajeros.mitrans.gob.cu/inicio, 48 hours before entry into Cuba.. Medical travel insurance required.."
+    },
+    "Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.. Visas will NOT be granted to travelers with evidence of past travel (Visa stamps) to the Turkish Republic of Northern Cyprus, or if their itineraries include illegal entries from ports and airports.."
+    },
+    "Czech Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Denmark": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Democratic Republic of the Congo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "7 days",
+      "notes": "Vaccination against yellow fever required.."
+    },
+    "Djibouti": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Transit visa is not required if you do not leave the airport.."
+    },
+    "Dominica": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "6 months",
+      "notes": ""
+    },
+    "Dominican Republic": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Passengers and airline crew who have been in or transited through Equatorial Guinea on or after 8 February 2023 are not allowed to enter due to the Marburg virus. All travelers who wish to enter must submit an E-Ticket at https://eticket.migracion.gob.do/, when they enter/exit and present the QR code at immigration.. A Yellow fever vaccination certificate is required.. Visa not required if holding valid visa issued by an EU member state, Canada or the US for stays that of no more than 90 days.."
+    },
+    "Ecuador": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": "Yellow fever vaccination certificate required.."
+    },
+    "Egypt": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival (30 days) for passengers with a valid and used visa issued by Australia, Canada, Japan, New Zealand, USA, United Kingdom or a Schengen Member State.. Passengers with a residence permit issued by the United Arab Emirates can obtain a visa upon arrival for a maximum of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date. They must have a confirmed return ticket and sufficient funds to cover their stay.. A \"Courtesy visa\" on arrival may be available to wives of Egyptian nationals, however, this is subject to approval by the immigration authorities and is not guaranteed. It is highly recommended to obtain a visa or confirmation before embarking.."
+    },
+    "El Salvador": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Equatorial Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Proof of vaccination for Yellow fever is required.."
+    },
+    "Eritrea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Estonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Eswatini": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ethiopia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visa is valid for a period of 30 or 90 days. Visa can be extended after arriving.."
+    },
+    "Fiji": {
+      "status": "evisa",
+      "requirement": "Online Visa",
+      "stay": "",
+      "notes": ""
+    },
+    "Finland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "France": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Gabon": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "e-Visas are valid only for those entering Gabon by air via Leon Mba International Airport in Libreville.. Visitors are required to hold a hotel voucher or letter of invitation issued by the sponsor.."
+    },
+    "Gambia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Yellow Fever Vaccination certificate required.."
+    },
+    "Georgia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa not required for holders of a valid visa or residence permit to Schengen, any of the OECD member countries, GCC country, Japan or South Korea. For a full list of countries visit. Travel medical insurance is required.. For those not eligible for visa exemption or e-Visa, can submit visa application online at https://www.geoconsul.gov.ge/en/register/visit. and schedule your appointment with the nearest embassy or consulate to process your visa.. Transit visa not required.."
+    },
+    "Germany": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Ghana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa applications for Pakistanis are processed in the Ghana mission in Iran. Applications can be started online at https://tehran.ghanagovernmentmission.com/portal/ and passport is to be submitted to the visa processing center in Islamabad or Teiran.. Health declaration form required 3 days prior to travel https://www.ghs-hdf.org/. Yellow fever vaccine certificate required.."
+    },
+    "Greece": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visas will not be granted to travelers with evidence of past travel (Visa stamps) to the Turkish Republic of Northern Cyprus.."
+    },
+    "Grenada": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Guatemala": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for those who hold Permanent residence in the United States.."
+    },
+    "Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Yellow fever vaccine certificate required.."
+    },
+    "Guinea-Bissau": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "90 days",
+      "notes": "Visa on arrival (90 days) may be available, however prior arrangements and an authorization letter from the Migration Office of Guinea Bissau is required.. Yellow fever vaccine certificate required.."
+    },
+    "Guyana": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Haiti": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": "10 USD Tourist fee to be collected upon arrival at the Airport.."
+    },
+    "Honduras": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for those who hold Permanent residence or multi-entry visa to USA, Canada or Schengen area.. Travelers to Honduras are required to sign up for \"Pre-check\" at https://prechequeo.inm.gob.hn/Login before they arrive.. All travelers are required to complete travelers declaration before entering and leaving the country (Exit visa) at https://sisglobal.aduanas.gob.hn/Pech/#/plataforma/otra_gestiones/formularioDJRV."
+    },
+    "Hungary": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Iceland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "India": {
+      "status": "visa-required",
+      "requirement": "Permission required",
+      "stay": "",
+      "notes": "There are NO Tourist visas for Pakistanis.. Due to high political tensions, there are extra requirements, a limited amount of purposes that entry can be granted and scrutiny Pakistani/Pakistani origin applicants go through while applying. The Visa process for Pakistani/Pakistan origin nationals is a 100 percent prior reference process and prior clearance from the Ministry of Home Affairs of India is mandatory.. Pakistani nationals with dual nationality must ONLY apply on their Pakistani passport.. People of Pakistani origin, Spouses of Pakistanis or whose parents or grandparents have held a Pakistani passport in the past must submit a copy of a Pakistan Overseas Card (NICOP) or a Citizenship Renunciation Letter issued by the Ministry of Interior of Pakistan.. Polio vaccine certificate is required.."
+    },
+    "Indonesia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "All travelers must fill out a customs declaration at https://ecd.beacukai.go.id/. Passengers must download the COVID-19 \"Satusehat app\" for health clearance.."
+    },
+    "Iran": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Pakistanis wishing to visit Iran for any reason must use the eVisa system.. Electronically submitting your online application to https://evisa.mfa.ir/en/ is the FIRST STEP in the visa application process.. Pakistanis are required to choose the nearest Embassy/Consulate where they will pick up their Visa.."
+    },
+    "Iraq": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Ireland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application is submitted online at https://www.visas.inis.gov.ie/. Applicants will be asked to attend the relevant Irish Embassy, Consulate, Visa Office, or Visa Application Centre to submit biometrics and collect their visa.. May transit without a visa.."
+    },
+    "Israel": {
+      "status": "visa-required",
+      "requirement": "Invitation required",
+      "stay": "",
+      "notes": "Pakistan does not recognize Israel. Under Pakistani national law, Pakistani passports are explicitly invalid for travel to Israel. Pakistani Dual nationals who attempt to travel to Israel from Pakistan on a Foreign passport, without prior arrangement and permission will be stopped by the Civil Aviation Authority at the Airport.. Israel does not have diplomatic ties with Pakistan, under Israeli law nations that are considered \"hostile\" require special invitations by an official party or company that needs to be submitted at the Israeli Ministry of Interior.."
+    },
+    "Italy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Jamaica": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Japan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa is available at https://www.evisa.mofa.go.jp/personal/login for those who hold residence AND reside in Brazil, Cambodia, Canada, Mongolia, Saudi Arabia, Singapore, South Africa, Taiwan (Province of China), United Arab Emirates, United Kingdom or United States.."
+    },
+    "Jordan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Pakistani nationals seeking entry to Jordan for Tourism, require a sponsor for a \"Visit visa\". Pakistani nationals without a sponsor can only obtain a \"Tourism visa\" through a Jordanian tourist agency officially registered and certified in the Ministry of Tourism.. All visa applications can be completed online at https://eservices.moi.gov.jo and receive an Electronic visa within 0-14 business days.. A visa on arrival is available for Pakistani nationals who hold at least a 6-month residency permit for Canada, Australia, the UK, South Korea, Japan, EU countries, or GCC countries.."
+    },
+    "Kazakhstan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Invitation registered with the Ministry of Internal Affairs is required.."
+    },
+    "Kenya": {
+      "status": "evisa",
+      "requirement": "Electronic Travel Authorisation",
+      "stay": "90 days",
+      "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.. eTA fee is 32.50 USD.. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).. Yellow fever vaccination certificate is required if coming from endemic countries.."
+    },
+    "Kiribati": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kuwait": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kyrgyzstan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "Nationals of Pakistan with a resident permit issued by the Brunei or any of the GCC countries can obtain a visa upon arrival at Bishkek (FRU) for a maximum of 1 month if they travel as tourists.. Alternately, an e-Visa can be obtained at https://www.evisa.e-gov.kg/ (which may require an invitation letter from a Kyrgyz national).."
+    },
+    "Laos": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Latvia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lebanon": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival for Pakistani nationals holding a valid Jordanian or GCC residence permit. The residence permit issued by a GCC Member State must have a profession of businessmen, managers, company owners, doctors, engineers, and lawyers. [ citation needed ]."
+    },
+    "Lesotho": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Liechtenstein": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Lithuania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Luxembourg": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Madagascar": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "90 days",
+      "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.."
+    },
+    "Malawi": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Malaysia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Maldives": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": "Must complete a traveler declaration within 96 hours before arrival at https://imuga.immigration.gov.mv/ethd Archived 7 April 2023 at the Wayback Machine. Must have a booking at a registered tourist facility.."
+    },
+    "Mali": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Malta": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Marshall Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Mauritania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Mauritius": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for spouses of Mauritian citizens.."
+    },
+    "Mexico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for those in possession of a used Multi entry visa or residency for Canada, Japan, United Kingdom or a Schengen Member State.."
+    },
+    "Micronesia": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Moldova": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa can be obtained at https://www.evisa.gov.md/ for Pakistani nationals holding Schengen Member State visa or residency.."
+    },
+    "Monaco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Must be in possession of a Schengen visa.."
+    },
+    "Mongolia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Montenegro": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.. Visa no required if holding valid USA or UK permanent residence or multi-entry visa.."
+    },
+    "Morocco": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa can be obtained at https://www.acces-maroc.ma for holders of a UK, Ireland, Japan, New Zealand, Australia, Canada, USA or Schengen zone visa.."
+    },
+    "Mozambique": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Myanmar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "28 days",
+      "notes": "COVID-19 vaccine certificate and health insurance from an approved retailer is required https://www.mminsurance.gov.mm. e-Visa can be obtained at https://evisa.moip.gov.mm. e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.."
+    },
+    "Namibia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Nauru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Nepal": {
+      "status": "evisa",
+      "requirement": "Online Visa / Visa on arrival",
+      "stay": "up to 150 days",
+      "notes": "Visa on arrival is only available at Tribhuvan International Airport, or at land border checkpoints.. Online Visa and Visa on arrival authorization can be obtained in advance at https://nepaliport.immigration.gov.np/."
+    },
+    "Netherlands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "New Zealand": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application can be obtained Online at https://www.immigration.govt.nz/new-zealand-visas/visas/visa/visitor-visa.. Visa is valid for up to 9 months. Visa fee is NZD $211.. A High-quality scan of your passport, no physical copy is required. If the visa officer believes that there is an issue, they may ask for a physical passport if they think it is necessary for the application. This will be on a case-by-case basis.. Health exam is required for stays over 6 months."
+    },
+    "Nicaragua": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa on arrival if holding valid visas of US, Canada, or Schengen Member state.."
+    },
+    "Niger": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yellow fever vaccine certificate required.."
+    },
+    "Nigeria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "North Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "North Macedonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if holding a multiple entry visa or permanent residence issued by an EU or Schengen member state. May stay no longer than 15 days at a time, and no more than 90 days total in every 180 days.."
+    },
+    "Norway": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Oman": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Online visa for those holding GCC residency.. Online visa available for spouses or children of G1 nationals that hold 26B or 26M visa subtype (Must travel with them). Online visa available for spouses or children of Brunei, New Zealand and South Korea holding (Must travel with them). Only a marriage certificate, proof of relationship (birth certificate) and proof that the spouse has received a visa are required for the online visa application.."
+    },
+    "Palau": {
+      "status": "visa-on-arrival",
+      "requirement": "Free visa on arrival",
+      "stay": "30 days",
+      "notes": "Must complete health declaration forum at https://www.palauhdf.com/ Archived 25 April 2023 at the Wayback Machine before arriving.."
+    },
+    "Panama": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for 30 days if holding valid residency in Canada, USA, Australia, Japan, South Korea, Singapore or any EU state.."
+    },
+    "Papua New Guinea": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.."
+    },
+    "Paraguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yellow fever vaccine certificate is required.."
+    },
+    "Peru": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Philippines": {
+      "status": "visa-required",
+      "requirement": "Visa required}",
+      "stay": "",
+      "notes": "Visa can be submitted online at https://www.visa.gov.ph/ Archived 25 April 2023 at the Wayback Machine and the applicant must contact the nearest Embassy to make arrangements for an appointment to submit their passport.. Residents of the United Arab Emirates may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application.."
+    },
+    "Poland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Portugal": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Qatar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "From 1 April 2026, Qatar VOA for Pakistani citizens has been temporarily suspended.."
+    },
+    "Republic of the Congo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yellow fever vaccine certificate required.."
+    },
+    "Romania": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa application can be started online at https://eviza.mae.ro, then the applicant must attend the diplomatic mission/consular post of Romania to receive the visa.. Polio vaccination certificate is required.. Visa not required if holding multi-entry visa or residency issued by a Schengen member state.. Visa not required if holding multi-entry visa or residency issued by Bulgaria, Cyprus or Croatia.."
+    },
+    "Russia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Application can be submitted online at https://visa.kdmid.ru/ and then attend the embassy to receive the visa.. Visa not required if visiting Saint Petersburg for up to 72 hours via the cruise St. Peter Line ferries, from Helsinki or Tallinn.."
+    },
+    "Rwanda": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Saint Kitts and Nevis": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Saint Lucia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Must complete traveler declaration within 72 hours of arriving at https://travelslu.govt.lc/."
+    },
+    "Saint Vincent and the Grenadines": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "3 months",
+      "notes": ""
+    },
+    "Samoa": {
+      "status": "unknown",
+      "requirement": "Entry permit on arrival",
+      "stay": "90 days",
+      "notes": "Will be given a 90-day Visitors Permit upon arrival if they meet the conditions of entry.. Must have a valid visa or permit for entry into the country to which they will travel from Samoa. Must have no deportation record for any other country.."
+    },
+    "San Marino": {
+      "status": "visa-free",
+      "requirement": "Visa not required (Conditional)",
+      "stay": "30 days",
+      "notes": "San Marino does not grant entry visas for periods of 30 days or less. However, San Marino has no international airport. A Schengen visa or permission from the Italian authorities to transit is required.."
+    },
+    "São Tomé and Príncipe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Yellow fever vaccination certificate is required.."
+    },
+    "Saudi Arabia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa available for tourist visas or permanent residents of USA, UK, UAE or Schengen countries. A Stopover Visa can be obtained at https://www.saudia.com/transit-visa for people transiting through Saudi Arabia for less than 96 hours.. Polio vaccine certificate is required.."
+    },
+    "Senegal": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "1 month",
+      "notes": "Yellow fever vaccine certificate is required.. Visa on arrival available for Pakistani nationals who have received a “visa préalable” letter before traveling to Senegal. Visa will be stamped on their passport upon arriving at Dakar Blaise Diagne airport.."
+    },
+    "Serbia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "90 days within any 180-day period. Transfers allowed.. Visa not required for passengers with a visa issued by Switzerland, United Kingdom, USA or an EEA Member State for a maximum stay of 90 days.. Short stay (up to 90 days) and long stay (up to 180 days) visas are issued free of charge.."
+    },
+    "Seychelles": {
+      "status": "evisa",
+      "requirement": "Electronic Border System",
+      "stay": "3 months",
+      "notes": "Application can be submitted up to 30 days before travel.. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.. Yellow fever vaccination certificate is required if coming from endemic countries.. Payment of the fee (EUR 10) by credit or debit card.. Valid for one journey only and it expires once exit the country.."
+    },
+    "Sierra Leone": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "3 months / 30 days",
+      "notes": "Visa on arrival costs 80 USD.. Yellow fever vaccine certificate is required.."
+    },
+    "Singapore": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Slovakia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Slovenia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Solomon Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Pre-arranged visa can be picked up on arrival.."
+    },
+    "Somalia": {
+      "status": "evisa",
+      "requirement": "eVisa / Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "South Africa": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Yellow fever vaccine certificate is required for those passing through the yellow fever belt of Africa or South America.."
+    },
+    "South Sudan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.. Printed visa authorization must be presented at the time of travel.."
+    },
+    "South Korea": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Spain": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Sri Lanka": {
+      "status": "evisa",
+      "requirement": "ETA/ Visa on arrival",
+      "stay": "30 days",
+      "notes": "Starting May 26, 2026, Pakistani citizens traveling to Sri Lanka are eligible to obtain a tourist visa (ETA) free of charge for a duration of up to 30 days (double entry).. ETA holders must be able to show (i) a valid onward/return ticket, and (ii) evidence of sufficient funds to cover the cost of stay in Sri Lanka.."
+    },
+    "Sudan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Due to armed civil conflict that broke out April 15, 2023 the Airports, Airspace and land borders are currently closed at this time.."
+    },
+    "Suriname": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Invitation letter is required.."
+    },
+    "Sweden": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Switzerland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Syria": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Tajikistan": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "60 days",
+      "notes": "Passengers can obtain an e-visa before departure at https://www.evisa.tj. They must have a printed e-visa confirmation.."
+    },
+    "Tanzania": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Applicants are advised to submit their applications at least 2 months before their travel date.. Having an invitation letter or a request letter for visa from the Host is an added credibility of their application.."
+    },
+    "Thailand": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Starting January. 01, 2025, an eVisa is available for all nationalities who wish to visit Thailand on transit and visit visas. In certain countries, payment still has to be made at the embassy until a payment system is worked out.."
+    },
+    "Timor-Leste": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Togo": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "15 days",
+      "notes": "Yellow fever vaccine certificate is required.."
+    },
+    "Tonga": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Trinidad and Tobago": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "90 days",
+      "notes": "Yellow fever vaccine certificate is required.. Minors under 18 years of age without parents, require a certified copy of their parents national ID and a letter giving permission for them to travel.."
+    },
+    "Tunisia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Turkey": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "e-Visa is available for Pakistani citizens who hold PR or a visa in Schengen Countries, USA, UK or Ireland.."
+    },
+    "Turkmenistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.. When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.."
+    },
+    "Tuvalu": {
+      "status": "visa-on-arrival",
+      "requirement": "Visa on arrival",
+      "stay": "30 days",
+      "notes": "Will be given a 30-day Visitors Permit upon arrival if they meet the conditions of entry.. Countries not separately listed in Schedule 1 of the Visa Regulations must pay 100 USD upon entry.."
+    },
+    "Uganda": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "3 months",
+      "notes": "Yellow fever vaccine certificate is required.."
+    },
+    "Ukraine": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "United Arab Emirates": {
+      "status": "evisa",
+      "requirement": "Online visa required",
+      "stay": "",
+      "notes": "Various types of Visas can be obtained online using \"smart service\". e-Visa can be obtained (30 days) regardless of which Airline(s) you have booked with, as long as you have a return flight booked with entry and exit through the same city.. e-Visa can be obtained online if holding a booking from Emirates, Air Arabia or Flydubai tickets.. A visa can also be obtained through a licensed agent, which often allows for faster processing time. For visa options that do not involve a flight booking (Land), and agent will be required to apply for a visa online.. Nationals of Pakistan holding a diplomatic or an official passport do not need a visa to visit the UAE for a duration of 90 days within a 180-day period.. Transit visa is not required when transferring from a UAE-based airport if the passenger does not exit the transit area.."
+    },
+    "United Kingdom": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Other exemptions apply for Visa-free Direct Airside Transit.."
+    },
+    "United States": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Uruguay": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Uzbekistan": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for holders of a valid residence permit of a GCC country. GCC residency must be valid for three months or more. The maximum duration of stay is 30 days. They must have a physical residence ID card.."
+    },
+    "Vanuatu": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "120 days",
+      "notes": ""
+    },
+    "Vatican City": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Venezuela": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Vietnam": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Passengers can obtain an e-visa at https://evisa.gov.vn/. The information on the e-visa must match exactly the name of the passenger in the passport and passport number.. e-Visa is valid for 90 days and multiple entries.."
+    },
+    "Yemen": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).."
+    },
+    "Zambia": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": ""
+    },
+    "Zimbabwe": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "1 month",
+      "notes": "Host invitation and proof of host residence is required if not staying at a hotel.."
+    },
+    "American Samoa": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa-free transit. Must leave the country within 24 hours or face 50 USD fine for every day overstayed. Must apply for OK to board 3 days prior to entry at https://www.legalaffairs.as.gov/copy-of-ok-board-transit-1. Applicants for a visa must have a sponsor. https://www.legalaffairs.as.gov/copy-of-immigration-office-1 Archived 27 March 2022 at the Wayback Machine."
+    },
+    "Anguilla": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "Visa on arrival for Pakistani nationals who have a valid residence permit for UK, US or Canada.."
+    },
+    "Aruba": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Must apply for an Aruba visa at the Netherlands Embassy in person.. Visa not required for Permanent residence holders for Canada, USA, UK, Ireland, and Overseas France.. Visa not required for Schengen country residence or multi-entry Schengen visa holders.. Visa not required for transit in certain cases see website for more details https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean. Passengers must complete \"Embarkation/Disembarkation Card (ED Card)\" before departure at www.edcardaruba.aw. They will receive a \"Travel Authorization\" which must be presented before boarding.."
+    },
+    "Ascension Island": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "3 months within any 1-year period.."
+    },
+    "Bermuda": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Must have a valid multi-entry visa for Canada, USA or UK that is valid for 45 days after the expiration of a visitor stay.. 45 day multi-entry visa is not required for those who wish to take up residence in Bermuda as the spouse or dependent of a Bermudian.. Visitors must complete Bermuda Arrival card at https://bermudaarrivalcard.com/."
+    },
+    "Bonaire": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Bonaire is governed by the Netherlands and is considered a public body, similar to municipalities.. Visitors are required to pay a Tourist Tax online and print out proof of payment to present upon arrival.."
+    },
+    "British Virgin Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for those who hold 6 months or more residency for Canada, USA or United Kingdom.."
+    },
+    "Cayman Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "30 day tourist visa on arrival given holding valid PR or residence permit of Canada, United Kingdom or USA. http://www.immigration.gov.ky/portal/page/portal/immhome/visitinghere/visas/visitorsvisas/listofcountries Archived 30 December 2017 at the Wayback Machine."
+    },
+    "Cook Islands": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "31 days",
+      "notes": ""
+    },
+    "Curaçao": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "All travelers are required to complete the Digital Immigration Card (DI card) online up to 7 days prior to departure. https://dicardcuracao.com/portal. Yellow fever vaccine certificate required.. Valid Travel Medical insurance required.."
+    },
+    "Falkland Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Travel medical insurance for the duration of the intended stay to cover aero-medical evacuation costs to a minimum value of 2,000,000 USD equivalent, is required to apply for a visitor permit.."
+    },
+    "Faroe Islands": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Must apply for a separate tourist visa at the Danish embassy specifically for Faroe Islands, even if you have a valid tourist visa or residency visa for EU.. Applicants can apply online at https://applyvisa.um.dk/NVP.App/frontpage and submit documents to the nearest Danish Embassy or processing center.."
+    },
+    "French Guiana": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state.. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "French Polynesia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Gibraltar": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required for those who hold permanent residency in the United Kingdom and have not been absent from the UK for more than 2 years.. Visa not required for those who hold family visas to EU nations.. Visa not required for those who hold residency permits to the United Kingdom for a period of 12 months or more.."
+    },
+    "Greenland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Applicants can apply online at https://applyvisa.um.dk/NVP.App/frontpage and submit documents to the nearest Danish Embassy or processing center.."
+    },
+    "Guadeloupe": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required for those who hold a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Guam": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Must hold a valid United States visa.. Pakistan is not part of the Guam-CNMI Visa Waiver Program, which allows citizens of certain nationalities to enter Guam without a US visa, as long as they enter directly from any nation except for the United States. Guam is a part of the United States, but they do have border controls and customs offices. Pakistani citizens will need to obtain a United States visa before they can enter Guam.. If transiting through the United States, a COVID-19 vaccine certificate is required.."
+    },
+    "Hong Kong SAR, China": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": "A Hong Kong SAR, China visa is required.. Separate visa is required for those who wish to visit mainland China.. If you are traveling from Taiwan (Province of China) to Hong Kong SAR, China, a separate entry permit is required.."
+    },
+    "Kosovo": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Kurdistan Region": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "30 days",
+      "notes": "Before applying for a visa, applicants must complete the application form to obtain a sponsor code and then provide this code to a sponsor in Kurdistan.. Once the sponsor code is provided, the sponsor applies for the e-Visa, pays the fee, and notifies the applicant of the application results.. Visa exempt for those who were born in Iraq.."
+    },
+    "Martinique": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Macau SAR, China": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Macau SAR, China Entry permit is required.. Pakistani nationals in Pakistan are required to use Gerrys visa services to apply for Macau SAR, China visa, as Chinese Embassy is no longer accepting applications directly. The application can be accessed online https://www.visaforchina.cn/ISB2_EN/. Pakistanis abroad can refer to instructions from the nearest Chinese embassy on how to obtain a Macau SAR, China visa.. Separate visa is required for those who wish to visit mainland China.."
+    },
+    "Mayotte": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Montserrat": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "180 days",
+      "notes": ""
+    },
+    "New Caledonia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Niue": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "30 days",
+      "notes": ""
+    },
+    "Norfolk Island": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Visa for Australia is required.. Australian residents travelling from Australia do not need a visa or passport.."
+    },
+    "Northern Cyprus": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Applications to enter Northern Cyprus can be processed at the Turkish Republic of Northern Cyprus Islamabad consulate http://eportal.islamabad.mfa.gov.ct.tr."
+    },
+    "Northern Mariana Islands": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Must hold a valid United States visa.. Pakistan is not part of the Guam-CNMI Visa Waiver Program, which allows citizens of certain nationalities to enter Northern Mariana Islands without a US visa, as long as they enter directly from any nation except for the United States. Northern Mariana Islands is a part of the United States, but they do have border controls and customs offices. Pakistani citizens will need to obtain a United States visa before they can enter Northern Mariana Islands.. A COVID-19 double-dose vaccine certificate is required.."
+    },
+    "Palestine": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Pitcairn": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "14 days",
+      "notes": ""
+    },
+    "Puerto Rico": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "United States tourist visa is required.."
+    },
+    "Réunion": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if in possession of a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Republic of Abkhazia": {
+      "status": "visa-required",
+      "requirement": "Visa Required",
+      "stay": "",
+      "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.. Georgia does not recognize Abkhazia. Under Georgian law, it is considered illegal to enter Abkhazia through the Russian border. Evidence of an Abkhazian visa, Abkhaz stamps or a stamp of Russian checkpoints on the border with Abkhazia in your passport, may result in you being fined, visa cancellation, deportation or being banned/rejected a visa from Georgia.."
+    },
+    "Saba": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Saba is governed by the Netherlands and is considered a public body, similar to municipalities.."
+    },
+    "Saint Barthélemy": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Saint Helena": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "",
+      "notes": ""
+    },
+    "Saint Martin": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if in possession of a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+    },
+    "Saint Pierre and Miquelon": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state.. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/. For those traveling to Saint Pierre and Miquelon directly from Canada directly, a Canadian Permanent residence card may be used to enter."
+    },
+    "Sint Eustatius": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Sint Eustatius is governed by the Netherlands and is considered a public body, similar to municipalities.."
+    },
+    "Somaliland": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Visa applications can be printed off online. Please contact the nearest embassy or consulate for further instructions.."
+    },
+    "South Ossetia": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.."
+    },
+    "Svalbard": {
+      "status": "visa-free",
+      "requirement": "Visa not required",
+      "stay": "",
+      "notes": "Svalbard and Jan Mayen require no visa for anyone to take up residency, work or tourism.. The only flights or ferries to Svalbard transit through Norway. Norway requires a transit visa for most Pakistani nationals. May transit without a visa if holding USA, Japan or Canadian permanent residence."
+    },
+    "Taiwan (Province of China) (Province of China)": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": "Pakistani citizens are subject to special visa requirements and may only visit Taiwan (Province of China) under specific conditions, including official invitations, business activities, medical treatment, family visits, or participation in approved events.. Those visiting Taiwan (Province of China) on business must be interviewed by a Taiwanese consular officer, and their sponsors in Taiwan (Province of China) must submit a guarantee to the Bureau of Consular Affairs in Taiwan (Province of China).. e-Visa is available to those who wish to enter Taiwan (Province of China) for the purpose of conducting business at the recommendation of local offices of the Taiwan (Province of China) External Trade Development Council (TAITRA)."
+    },
+    "Turks and Caicos": {
+      "status": "visa-required",
+      "requirement": "Visa required",
+      "stay": "",
+      "notes": ""
+    },
+    "Zanzibar": {
+      "status": "evisa",
+      "requirement": "eVisa",
+      "stay": "90 days",
+      "notes": "Visa for Tanzania required.. e-Visa can be obtained at https://visa.immigration.go.tz. Applicants are advised to submit their applications at least 2 months before their travel date.. Having an invitation letter or a request letter for visa from the Host is an added credibility of their application.. If an applicant wishes to visit both Tanzania Mainland and Zanzibar, he/she is advised to select his first destination while filling the form.."
+    }
+  },
+  "visaEnhancements": {
+    "us": {
+      "label": "US visa",
+      "countries": {
+        "Guam": {
+          "status": "visa-free",
+          "requirement": "Visa Required",
+          "stay": "",
+          "notes": "Must hold a valid United States visa.. Pakistan is not part of the Guam-CNMI Visa Waiver Program, which allows citizens of certain nationalities to enter Guam without a US visa, as long as they enter directly from any nation except for the United States. Guam is a part of the United States, but they do have border controls and customs offices. Pakistani citizens will need to obtain a United States visa before they can enter Guam.. If transiting through the United States, a COVID-19 vaccine certificate is required.."
+        },
+        "Northern Mariana Islands": {
+          "status": "visa-free",
+          "requirement": "Visa Required",
+          "stay": "",
+          "notes": "Must hold a valid United States visa.. Pakistan is not part of the Guam-CNMI Visa Waiver Program, which allows citizens of certain nationalities to enter Northern Mariana Islands without a US visa, as long as they enter directly from any nation except for the United States. Northern Mariana Islands is a part of the United States, but they do have border controls and customs offices. Pakistani citizens will need to obtain a United States visa before they can enter Northern Mariana Islands.. A COVID-19 double-dose vaccine certificate is required.."
+        }
+      }
+    },
+    "schengen": {
+      "label": "Schengen visa",
+      "countries": {
+        "Albania": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "90 days",
+          "notes": "Visa not required for passengers with a valid multiple entry Schengen visa, or residency permit with the condition that the visa must have been used previously in one of the countries of the Schengen area.. Visa not required for passengers with a valid 10-year UAE residence permit or holders of a multiple entry visa or residency permit for the United States or the United Kingdom.."
+        },
+        "Antigua and Barbuda": {
+          "status": "evisa",
+          "requirement": "eVisa",
+          "stay": "",
+          "notes": "30 day Visa on arrival (100 USD ) if holding valid visa Schengen Visa or residency.. 30 day Visa on arrival (100 USD ) if holding valid visa or Permanent residency to UK, US or Canada.."
+        },
+        "Armenia": {
+          "status": "visa-free",
+          "requirement": "Invitation required",
+          "stay": "",
+          "notes": "Visas are granted by invitation only by the authorities, foreign diplomatic representations, international organizations, or their representatives accredited in the Republic of Armenia.. Nationals of Pakistan who hold a valid residence permit issued by the US, EU state, Schengen Area States, any of the six GCC countries, and whose residence permit is valid for at least six months from the date of entry into the Republic of Armenia, are exempt from the visa requirement starting from January 1 to July 1, 2026. They can stay in the territory of the Republic of Armenia without a visa for up to 180 days within a one-year period (they must carry the physical card having key information in Latin script).."
+        },
+        "Belarus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "30 day visa-free access for holders of a valid multi-entry EU or Schengen visa. https://www.belarus.by/rel_image/6400."
+        },
+        "Belize": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa-free entry for Permanent residents and holders of multiple entry visa to USA and Canada.. Visa-free entry for visa holders of a Schengen Member State 90 days.."
+        },
+        "Bulgaria": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.."
+        },
+        "Cyprus": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.. Visas will NOT be granted to travelers with evidence of past travel (Visa stamps) to the Turkish Republic of Northern Cyprus, or if their itineraries include illegal entries from ports and airports.."
+        },
+        "Egypt": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa on arrival (30 days) for passengers with a valid and used visa issued by Australia, Canada, Japan, New Zealand, USA, United Kingdom or a Schengen Member State.. Passengers with a residence permit issued by the United Arab Emirates can obtain a visa upon arrival for a maximum of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date. They must have a confirmed return ticket and sufficient funds to cover their stay.. A \"Courtesy visa\" on arrival may be available to wives of Egyptian nationals, however, this is subject to approval by the immigration authorities and is not guaranteed. It is highly recommended to obtain a visa or confirmation before embarking.."
+        },
+        "Honduras": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required for those who hold Permanent residence or multi-entry visa to USA, Canada or Schengen area.. Travelers to Honduras are required to sign up for \"Pre-check\" at https://prechequeo.inm.gob.hn/Login before they arrive.. All travelers are required to complete travelers declaration before entering and leaving the country (Exit visa) at https://sisglobal.aduanas.gob.hn/Pech/#/plataforma/otra_gestiones/formularioDJRV."
+        },
+        "Mexico": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required for those in possession of a used Multi entry visa or residency for Canada, Japan, United Kingdom or a Schengen Member State.."
+        },
+        "Montenegro": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days.. Visa no required if holding valid USA or UK permanent residence or multi-entry visa.."
+        },
+        "Nicaragua": {
+          "status": "visa-on-arrival",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa on arrival if holding valid visas of US, Canada, or Schengen Member state.."
+        },
+        "North Macedonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if holding a multiple entry visa or permanent residence issued by an EU or Schengen member state. May stay no longer than 15 days at a time, and no more than 90 days total in every 180 days.."
+        },
+        "Romania": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa application can be started online at https://eviza.mae.ro, then the applicant must attend the diplomatic mission/consular post of Romania to receive the visa.. Polio vaccination certificate is required.. Visa not required if holding multi-entry visa or residency issued by a Schengen member state.. Visa not required if holding multi-entry visa or residency issued by Bulgaria, Cyprus or Croatia.."
+        },
+        "San Marino": {
+          "status": "visa-free",
+          "requirement": "Visa not required (Conditional)",
+          "stay": "30 days",
+          "notes": "San Marino does not grant entry visas for periods of 30 days or less. However, San Marino has no international airport. A Schengen visa or permission from the Italian authorities to transit is required.."
+        },
+        "Aruba": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Must apply for an Aruba visa at the Netherlands Embassy in person.. Visa not required for Permanent residence holders for Canada, USA, UK, Ireland, and Overseas France.. Visa not required for Schengen country residence or multi-entry Schengen visa holders.. Visa not required for transit in certain cases see website for more details https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean. Passengers must complete \"Embarkation/Disembarkation Card (ED Card)\" before departure at www.edcardaruba.aw. They will receive a \"Travel Authorization\" which must be presented before boarding.."
+        },
+        "French Guiana": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state.. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "French Polynesia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Guadeloupe": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required for those who hold a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Martinique": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Mayotte": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "New Caledonia": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Réunion": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if in possession of a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Saint Barthélemy": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state. Visa not required if holding a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Saint Martin": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state,. Visa not required if in possession of a residence permit for Andorra or Monaco. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/."
+        },
+        "Saint Pierre and Miquelon": {
+          "status": "visa-free",
+          "requirement": "Visa required",
+          "stay": "",
+          "notes": "Visa not required if in possession of a long-stay visa or hold a valid residence permit issued by a Schengen member state.. Visa not required if holding a residence permit for Andorra or Monaco.. All other tourist visa applications can be done online in certain cases after submitting the required documents. https://france-visas.gouv.fr/. For those traveling to Saint Pierre and Miquelon directly from Canada directly, a Canadian Permanent residence card may be used to enter."
+        }
+      }
+    },
+    "uk": {
+      "label": "UK visa",
+      "countries": {}
+    },
+    "canada": {
+      "label": "Canada visa",
+      "countries": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="TWN">
+  <rect width="1200" height="800" rx="0" fill="#fff"/>
+  <rect x="16" y="16" width="1168" height="768" fill="none" stroke="#d1d5db" stroke-width="32"/>
+  <text
+    x="600"
+    y="430"
+    fill="#111"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="260"
+    font-weight="800"
+    letter-spacing="12"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >TWN</text>
+</svg>
